@@ -7,7 +7,7 @@ Collection of anime-themed wallpapers featuring characters and scenes from popul
 
 Preview
 
-<img src="Animes/demon%20slayer.png" width="300"> <img src="Animes/naruto.png" width="300"> <img src="Animes/one-piece-luffy.jpg" width="300"> <img src="Animes/solo%20leveling.png" width="300"> <img src="Animes/kaneki.jpeg" width="300">
+<img src="Animes/demon%20slayer.png" width="300"> <img src="Animes/naruto.png" width="300"> <img src="Animes/one-piece-luffy.jpg" width="300"> <img src="Animes/solo%20leveling.png" width="300">
 
 Browse the Animes directory to view the complete collection.
 
@@ -17,7 +17,7 @@ A collection of automotive wallpapers featuring modern, retro, and stylized vehi
 
 Preview
 
-<img src="Cars/car1.jpg" width="300"> <img src="Cars/car3.jpg" width="300"> <img src="Cars/pastel-car.png" width="300"> <img src="Cars/car2.png" width="300">
+<img src="Cars/car1.jpg" width="300"> <img src="Cars/car3.jpg" width="300"> <img src="Cars/pastel-car.png" width="300"> <img src="Cars/car2.jpg" width="300">
 
 Browse the Cars directory to view the complete collection.
 
@@ -37,7 +37,7 @@ Wallpapers inspired by Elden Ring, featuring iconic characters, bosses, environm
 
 Preview
 
-<img src="Elden%20Ring/malenia.png" width="300"> <img src="Elden%20Ring/ranni.jpg" width="300"> <img src="Elden%20Ring/elden%20ring.jpg" width="300"> <img src="Elden%20Ring/wizard.jpg" width="300">
+<img src="Elden%20Ring/malenia.png" width="300"> <img src="Elden%20Ring/ranni.jpg" width="300"> <img src="Elden%20Ring/elden%20ring.jpg" width="300"> <img src="Elden%20Ring/wizard.png" width="300">
 
 Browse the Elden Ring directory to view the complete collection.
 
