@@ -37,7 +37,7 @@ Wallpapers inspired by Elden Ring, featuring iconic characters, bosses, environm
 
 Preview
 
-<img src="Elden%20Ring/malenia.png" width="300"> <img src="Elden%20Ring/ranni.jpg" width="300"> <img src="Elden%20Ring/elden%20ring.jpg" width="300"> <img src="Elden%20Ring/wizard.png" width="300">
+<img src="Elden%20Ring/malenia.png" width="300"> <img src="Elden%20Ring/ranni.jpg" width="300"> <img src="Elden%20Ring/ranni.jpg" width="300"> <img src="Elden%20Ring/wizard.png" width="300">
 
 Browse the Elden Ring directory to view the complete collection.
 
@@ -47,6 +47,36 @@ Fantasy-themed wallpapers featuring warriors, mages, dragons, landscapes, and da
 
 Preview
 
-<img src="Fantasy/blue-tree-mage.jpg" width="300"> <img src="Fantasy/dragon-samurais.jpg" width="300"> <img src="Fantasy/mountain_spell.png" width="300">
+<img src="Fantasy/blue-tree-mage.jpg" width="300"> <img src="Fantasy/dragon-samurais.jpg" width="300"> <img src="Fantasy/mountain_spell.png" width="300"> <img src="Fantasy/gunner.png" width="300">
 
 Browse the Fantasy directory to view the complete collection.
+
+Pixel Arts
+
+Pixel art and stylized digital wallpapers featuring cities, landscapes, neon environments, and retro-inspired scenes.
+
+Preview
+
+<img src="Pixel%20Arts/blue-city.jpg" width="300"> <img src="Pixel%20Arts/neon%20city.jpg" width="300"> <img src="Pixel%20Arts/pixel_blue_sea.jpg" width="300"> <img src="Pixel%20Arts/tokyo-purple.jpg" width="300">
+
+Browse the Pixel Arts directory for the full collection.
+
+Samurai
+
+Samurai-themed wallpapers including cyberpunk interpretations, traditional Japanese aesthetics, and cinematic compositions.
+
+Preview
+
+<img src="Samurai/blue-samurai.jpg" width="300"> <img src="Samurai/cyber-samurai.jpg" width="300"> <img src="Samurai/samurai.jpg" width="300"> <img src="Samurai/shadow-samurais-backiee-8K.jpg" width="300">
+
+Browse the Samurai directory for the full collection.
+
+Landscapes
+
+A large collection of landscape wallpapers including natural environments, fantasy scenes, cyberpunk cities, skies, and atmospheric compositions.
+
+Preview
+
+<img src="Landscapes/beautiful-sky.jpg" width="300"> <img src="Landscapes/cyber-city.jpg" width="300"> <img src="Landscapes/firewatch.jpg" width="300"> <img src="Landscapes/moon-pink.jpg" width="300">
+
+Browse the Landscapes directory for the full collection.
