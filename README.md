@@ -8,7 +8,7 @@ Collection of anime-themed wallpapers featuring characters and scenes from popul
 
 #### Preview
 
-<img src="Animes/demon%20slayer.png" width="300"> <img src="Animes/naruto.png" width="300"> <img src="Animes/one-piece-luffy.jpg" width="300">
+<img src="Animes/demon%20slayer.png" width="300"> <img src="Animes/naruto.png" width="300"> <img src="Animes/one-piece-luffy.jpg" width="300"> <img src="Animes/kaneki.jpeg" width="300">
 
 Browse the Animes directory to view the complete collection.
 
@@ -18,7 +18,7 @@ A collection of automotive wallpapers featuring modern, retro, and stylized vehi
 
 #### Preview
 
-<img src="Cars/car1.jpg" width="300"> <img src="Cars/car3.jpg" width="300"> <img src="Cars/pastel-car.png" width="300">
+<img src="Cars/car1.jpg" width="300"> <img src="Cars/car3.jpg" width="300"> <img src="Cars/pastel-car.png" width="300"> <img src="Cars/car2.jpg" width="300">
 
 Browse the Cars directory to view the complete collection.
 
@@ -28,7 +28,7 @@ Desktop-oriented wallpapers including Windows, Microsoft Surface, Arch Linux, ab
 
 #### Preview
 
-<img src="Desktop/arch_purple.png" width="300"> <img src="Desktop/ink_wave.png" width="300"> <img src="Desktop/windows-11-logo-colorful-wallpaper-3840x2160_54.png" width="300">
+<img src="Desktop/arch_purple.png" width="300"> <img src="Desktop/ink_wave.png" width="300"> <img src="Desktop/windows-11-logo-colorful-wallpaper-3840x2160_54.png" width="300"> <img src="Desktop/microsoft.png" width="300">
 
 Browse the Desktop directory to view the complete collection.
 
@@ -38,7 +38,7 @@ Wallpapers inspired by Elden Ring, featuring iconic characters, bosses, environm
 
 #### Preview
 
-<img src="Elden%20Ring/malenia.png" width="300"> <img src="Elden%20Ring/ranni.jpg" width="300"> <img src="Elden%20Ring/wizard.png" width="300">
+<img src="Elden%20Ring/malenia.png" width="300"> <img src="Elden%20Ring/ranni.jpg" width="300"> <img src="Elden%20Ring/wizard.png" width="300"> <img src="Elden%20Ring/serpent.jpg" width="300">
 
 Browse the Elden Ring directory to view the complete collection.
 
@@ -48,7 +48,7 @@ Fantasy-themed wallpapers featuring warriors, mages, dragons, landscapes, and da
 
 #### Preview
 
-<img src="Fantasy/blue-tree-mage.jpg" width="300"> <img src="Fantasy/mountain_spell.png" width="300"> <img src="Fantasy/gunner.png" width="300">
+<img src="Fantasy/blue-tree-mage.jpg" width="300"> <img src="Fantasy/mountain_spell.png" width="300"> <img src="Fantasy/gunner.png" width="300"> <img src="Fantasy/soldier-sunset.jpg" width="300">
 
 Browse the Fantasy directory to view the complete collection.
 
@@ -58,7 +58,7 @@ Pixel art and stylized digital wallpapers featuring cities, landscapes, neon env
 
 #### Preview
 
-<img src="Pixel%20Arts/blue-city.jpg" width="300"> <img src="Pixel%20Arts/neon%20city.jpg" width="300"> <img src="Pixel%20Arts/tokyo-purple.jpg" width="300">
+<img src="Pixel%20Arts/blue-city.jpg" width="300"> <img src="Pixel%20Arts/neon%20city.jpg" width="300"> <img src="Pixel%20Arts/tokyo-purple.jpg" width="300"> <img src="Pixel%20Arts/forest.jpg" width="300"> 
 
 Browse the Pixel Arts directory for the full collection.
 
@@ -68,7 +68,7 @@ Samurai-themed wallpapers including cyberpunk interpretations, traditional Japan
 
 #### Preview
 
-<img src="Samurai/blue-samurai.jpg" width="300"> <img src="Samurai/cyber-samurai.jpg" width="300"> <img src="Samurai/samurai.jpg" width="300">
+<img src="Samurai/blue-samurai.jpg" width="300"> <img src="Samurai/cyber-samurai.jpg" width="300"> <img src="Samurai/samurai.jpg" width="300"> <img src="Samurai/samurai-re.jpg" width="300">
 
 Browse the Samurai directory for the full collection.
 
@@ -78,6 +78,6 @@ A large collection of landscape wallpapers including natural environments, fanta
 
 Preview
 
-<img src="Landscapes/beautiful-sky.jpg" width="300"> <img src="Landscapes/cyber-city.jpg" width="300"> <img src="Landscapes/moon-pink.jpg" width="300">
+<img src="Landscapes/beautiful-sky.jpg" width="300"> <img src="Landscapes/cyber-city.jpg" width="300"> <img src="Landscapes/moon-pink.jpg" width="300"> <img src="Landscapes/apocalipse_vibe.png" width="300">
 
 Browse the Landscapes directory for the full collection.
