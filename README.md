@@ -12,7 +12,7 @@ Collection of anime-themed wallpapers featuring characters and scenes from popul
 
 Browse the Animes directory to view the complete collection.
 
-##Cars
+## Cars
 
 A collection of automotive wallpapers featuring modern, retro, and stylized vehicles.
 
