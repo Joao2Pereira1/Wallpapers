@@ -1,77 +1,78 @@
 # Wallpapers
+
 Collection of beautiful wallpapers that i found on multiple sites like alphacoders, backie, wallhaven, ...
 
-Anime
+## Anime
 
 Collection of anime-themed wallpapers featuring characters and scenes from popular series such as Demon Slayer, Naruto and more.
 
-Preview
+#### Preview
 
 <img src="Animes/demon%20slayer.png" width="300"> <img src="Animes/naruto.png" width="300"> <img src="Animes/one-piece-luffy.jpg" width="300"> <img src="Animes/solo%20leveling.png" width="300">
 
 Browse the Animes directory to view the complete collection.
 
-Cars
+##Cars
 
 A collection of automotive wallpapers featuring modern, retro, and stylized vehicles.
 
-Preview
+#### Preview
 
 <img src="Cars/car1.jpg" width="300"> <img src="Cars/car3.jpg" width="300"> <img src="Cars/pastel-car.png" width="300"> <img src="Cars/car2.jpg" width="300">
 
 Browse the Cars directory to view the complete collection.
 
-Desktop
+## Desktop
 
 Desktop-oriented wallpapers including Windows, Microsoft Surface, Arch Linux, abstract designs, and minimalist backgrounds.
 
-Preview
+#### Preview
 
 <img src="Desktop/arch_purple.png" width="300"> <img src="Desktop/ink_wave.png" width="300"> <img src="Desktop/windows-11-logo-colorful-wallpaper-3840x2160_54.png" width="300"> <img src="Desktop/microsoft.png" width="300">
 
 Browse the Desktop directory to view the complete collection.
 
-Elden Ring
+## Elden Ring
 
 Wallpapers inspired by Elden Ring, featuring iconic characters, bosses, environments, and memorable locations from the game.
 
-Preview
+#### Preview
 
 <img src="Elden%20Ring/malenia.png" width="300"> <img src="Elden%20Ring/ranni.jpg" width="300"> <img src="Elden%20Ring/ranni.jpg" width="300"> <img src="Elden%20Ring/wizard.png" width="300">
 
 Browse the Elden Ring directory to view the complete collection.
 
-Fantasy
+## Fantasy
 
 Fantasy-themed wallpapers featuring warriors, mages, dragons, landscapes, and dark fantasy environments.
 
-Preview
+#### Preview
 
 <img src="Fantasy/blue-tree-mage.jpg" width="300"> <img src="Fantasy/dragon-samurais.jpg" width="300"> <img src="Fantasy/mountain_spell.png" width="300"> <img src="Fantasy/gunner.png" width="300">
 
 Browse the Fantasy directory to view the complete collection.
 
-Pixel Arts
+## Pixel Arts
 
 Pixel art and stylized digital wallpapers featuring cities, landscapes, neon environments, and retro-inspired scenes.
 
-Preview
+#### Preview
 
 <img src="Pixel%20Arts/blue-city.jpg" width="300"> <img src="Pixel%20Arts/neon%20city.jpg" width="300"> <img src="Pixel%20Arts/pixel_blue_sea.jpg" width="300"> <img src="Pixel%20Arts/tokyo-purple.jpg" width="300">
 
 Browse the Pixel Arts directory for the full collection.
 
-Samurai
+## Samurai
 
 Samurai-themed wallpapers including cyberpunk interpretations, traditional Japanese aesthetics, and cinematic compositions.
 
-Preview
+#### Preview
 
 <img src="Samurai/blue-samurai.jpg" width="300"> <img src="Samurai/cyber-samurai.jpg" width="300"> <img src="Samurai/samurai.jpg" width="300"> <img src="Samurai/shadow-samurais-backiee-8K.jpg" width="300">
 
 Browse the Samurai directory for the full collection.
 
-Landscapes
+## Landscapes
 
 A large collection of landscape wallpapers including natural environments, fantasy scenes, cyberpunk cities, skies, and atmospheric compositions.
 
