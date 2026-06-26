@@ -12,7 +12,7 @@ A personal collection of wallpapers gathered from multiple sources.
 * [Landscapes](Landscapes/)
 * [Pixel Arts](Pixel%20Arts/)
 * [Samurai](Samurai/)
-* * [Shadow of the Colossus](STOC/)
+* [Shadow of the Colossus](STOC/)
 
 ## Sources
 
@@ -94,7 +94,7 @@ Pixel art and stylized digital wallpapers featuring cities, landscapes, neon env
 
 #### Preview
 
-<img src="Pixel%20Arts/blue-city.jpg" width="300"> <img src="Pixel%20Arts/neon%20city.jpg" width="300"> <img src="Pixel%20Arts/tokyo-purple.jpg" width="300"> <img src="Pixel%20Arts/fantasy-style.jpg" width="300">
+<img src="Pixel%20Arts/blue-city.jpg" width="300"> <img src="Pixel%20Arts/purple-sky.png" width="300"> <img src="Pixel%20Arts/tokyo-purple.jpg" width="300"> <img src="Pixel%20Arts/fantasy-style.jpg" width="300">
 
 **[Browse the Pixel Arts collection](Pixel%20Arts/)**
 
