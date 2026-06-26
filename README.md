@@ -12,6 +12,7 @@ A personal collection of wallpapers gathered from multiple sources.
 * [Landscapes](Landscapes/)
 * [Pixel Arts](Pixel%20Arts/)
 * [Samurai](Samurai/)
+* * [Shadow of the Colossus](STOC/)
 
 ## Sources
 
@@ -120,3 +121,15 @@ A large collection of landscape wallpapers including natural environments, fanta
 <img src="Landscapes/beautiful-sky.jpg" width="300"> <img src="Landscapes/cyber-city.jpg" width="300"> <img src="Landscapes/moon-pink.jpg" width="300"> <img src="Landscapes/apocalipse_vibe.png" width="300">
 
 **[Browse the Landscapes collection](Landscapes/)**
+
+---
+
+## Shadow of the Colossus
+
+Collection of Shadow of the Colossus wallpapers.
+
+#### Preview
+
+<img src="STOC/Shadow_Of_The_Colossus1.jpg" width="300"> <img src="STOC/Shadow_Of_The_Colossus2.jpg" width="300"> <img src="STOC/Shadow_Of_The_Colossus3.jpg" width="300"> <img src="STOC/Shadow_Of_The_Colossus4.jpeg" width="300">
+
+**[Browse the Shadow of the Colossus collection](STOC/)**
