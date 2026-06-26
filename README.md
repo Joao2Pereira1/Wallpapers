@@ -1,14 +1,15 @@
 # Wallpapers
 
 Collection of beautiful wallpapers that i found on multiple sites like:
-https://wallhaven.cc
-https://wallhere.com
-https://deviantart.com
-https://www.reddit.com/r/wallpaper/
-https://backiee.com
-https://alphacoders.com
 
-I do not own these images. All credits belong to the respective artists. Some were made by AI.
+- https://wallhaven.cc
+- https://wallhere.com
+- https://deviantart.com
+- https://www.reddit.com/r/wallpaper/
+- https://backiee.com
+- https://alphacoders.com
+
+I do not own any of these images. All credits belong to the respective artists. Some were made by AI.
 
 ## Anime
 
