@@ -14,7 +14,3 @@ Pixel art wallpapers featuring cities, landscapes, and retro-inspired scenes.
 <img src="tokyo-purple.jpg" width="300">
 
 ---
-
-**Wallpapers:** 20
-
-⬅ **[Back to the main collection](../)**

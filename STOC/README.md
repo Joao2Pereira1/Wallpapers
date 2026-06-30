@@ -10,7 +10,3 @@ Wallpapers inspired by Shadow of the Colossus.
 <img src="Shadow_Of_The_Colossus2.jpg" width="300">
 
 ---
-
-**Wallpapers:** 4
-
-⬅ **[Back to the main collection](../)**

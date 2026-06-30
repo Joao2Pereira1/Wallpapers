@@ -12,7 +12,3 @@ A collection of automotive wallpapers featuring modern, retro, and stylized vehi
 <img src="van.jpg" width="300">
 
 ---
-
-**Wallpapers:** 6
-
-⬅ **[Back to the main collection](../)**

@@ -14,7 +14,3 @@ A collection of beautiful landscapes, cities, skies, forests, and atmospheric sc
 <img src="green_sky.jpg" width="300">
 
 ---
-
-**Wallpapers:** 67
-
-⬅ **[Back to the main collection](../)**

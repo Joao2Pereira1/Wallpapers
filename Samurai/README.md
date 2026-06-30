@@ -14,7 +14,3 @@ Samurai-themed wallpapers with traditional and cyberpunk aesthetics.
 <img src="rad_samurai.jpg" width="300">
 
 ---
-
-**Wallpapers:** 10
-
-⬅ **[Back to the main collection](../)**

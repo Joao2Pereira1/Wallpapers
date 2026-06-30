@@ -14,7 +14,3 @@ Desktop-oriented wallpapers including Windows, Linux, abstract, and minimalist d
 <img src="microsoft.png" width="300">
 
 ---
-
-**Wallpapers:** 12
-
-⬅ **[Back to the main collection](../)**

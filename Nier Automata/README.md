@@ -9,7 +9,3 @@ Wallpapers inspired by NieR: Automata.
 <img src="2B.jpeg" width="300">
 
 ---
-
-**Wallpapers:** 3
-
-⬅ **[Back to the main collection](../)**

@@ -14,7 +14,3 @@ A collection of anime-themed wallpapers featuring characters and scenes from pop
 <img src="kaneki.jpeg" width="300">
 
 ---
-
-**Wallpapers:** 11
-
-⬅ **[Back to the main collection](../)**

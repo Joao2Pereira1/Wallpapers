@@ -14,7 +14,3 @@ Fantasy-themed wallpapers featuring warriors, mages, dragons, and magical landsc
 <img src="mountain_spell.png" width="300">
 
 ---
-
-**Wallpapers:** 16
-
-⬅ **[Back to the main collection](../)**

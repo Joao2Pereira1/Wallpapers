@@ -14,7 +14,3 @@ Wallpapers inspired by Elden Ring featuring characters, bosses, and environments
 <img src="malenia-incredible.jpg" width="300">
 
 ---
-
-**Wallpapers:** 13
-
-⬅ **[Back to the main collection](../)**
