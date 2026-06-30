@@ -28,6 +28,14 @@ A personal collection of wallpapers gathered from multiple sources.
 > [!NOTE]
 > I do not own any of these images. All credits belong to their respective artists. Some wallpapers were generated using AI.
 
+## AI Generated Wallpapers
+
+Some wallpapers in this collection were generated using AI.
+
+See the full list here:
+
+- 📄 [AI_WALLPAPERS.md](AI_WALLPAPERS.md)
+  
 ---
 
 ## Anime
