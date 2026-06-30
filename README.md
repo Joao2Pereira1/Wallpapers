@@ -22,6 +22,8 @@ A personal collection of wallpapers gathered from multiple sources.
 * https://www.reddit.com/r/wallpaper/
 * https://backiee.com
 * https://alphacoders.com
+* https://www.artstation.com/
+* https://www.desktophut.com
 
 > [!NOTE]
 > I do not own any of these images. All credits belong to their respective artists. Some wallpapers were generated using AI.
