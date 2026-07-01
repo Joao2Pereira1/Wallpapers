@@ -2,7 +2,7 @@
 
 A curated collection of free high-quality wallpapers gathered from various sources.
 
-Featuring minimalist, anime, landscape, cyberpunk, pixel art and more. This collection is regularly updated with new wallpapers. If you enjoy it, consider giving the repository a ⭐ to stay updated and support the project.
+Featuring anime, landscapes, cyberpunk, pixel art and more. This collection is regularly updated with new wallpapers. If you enjoy it, consider giving the repository a ⭐ to stay updated and support the project.
 
 ## Categories
 
