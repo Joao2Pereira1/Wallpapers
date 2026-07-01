@@ -12,6 +12,7 @@ This collection is regularly updated with new wallpapers. If you enjoy it, consi
 * [Elden Ring](Elden%20Ring/)
 * [Fantasy](Fantasy/)
 * [Landscapes](Landscapes/)
+* [Nier Automata](Nier%20Automata/)
 * [Pixel Arts](Pixel%20Arts/)
 * [Samurai](Samurai/)
 * [Shadow of the Colossus](STOC/)
@@ -25,7 +26,6 @@ This collection is regularly updated with new wallpapers. If you enjoy it, consi
 * https://backiee.com
 * https://alphacoders.com
 * https://www.artstation.com/
-* https://www.desktophut.com
 
 > [!NOTE]
 > I do not own any of these images. All credits belong to their respective artists. Some wallpapers were generated using AI.
@@ -97,6 +97,18 @@ Fantasy-themed wallpapers featuring warriors, mages, dragons, landscapes, and da
 <img src="Fantasy/blue-tree-mage.jpg" width="300"> <img src="Fantasy/mountain_spell.png" width="300"> <img src="Fantasy/gunner.png" width="300"> <img src="Fantasy/soldier-sunset.jpg" width="300">
 
 **[Browse the Fantasy collection](Fantasy/)**
+
+---
+
+## Nier Automata
+
+Collection of Nier Automata wallpapers.
+
+#### Preview
+
+<img src="Nier%20Automata/2B.jpeg" width="300"> <img src="Nier%20Automata/2b-nier-automata-4k-artwork-qx.png" width="300"> <img src="Nier%20Automata/yorha-no2-type-b-nier-automata-thumb.png" width="300"> <img src="Nier%20Automata/nier-automata-minimal.png" width="300">
+
+**[Browse the Nier Automata collection](Nier%20Automata/)**
 
 ---
 
