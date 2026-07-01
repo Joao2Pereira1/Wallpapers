@@ -1,8 +1,8 @@
 # Wallpapers
 
-A personal collection of wallpapers gathered from various sources.
+A curated collection of free high-quality wallpapers gathered from various sources.
 
-This collection is regularly updated with new wallpapers. If you enjoy it, consider giving the repository a ⭐ to stay updated and support the project.
+Featuring minimalist, anime, landscape, cyberpunk, pixel art and more. This collection is regularly updated with new wallpapers. If you enjoy it, consider giving the repository a ⭐ to stay updated and support the project.
 
 ## Categories
 
