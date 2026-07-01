@@ -1,6 +1,8 @@
 # Wallpapers
 
-A personal collection of wallpapers gathered from multiple sources.
+A personal collection of wallpapers gathered from various sources.
+
+This collection is regularly updated with new wallpapers. If you enjoy it, consider giving the repository a ⭐ to stay updated and support the project.
 
 ## Categories
 
