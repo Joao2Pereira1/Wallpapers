@@ -106,7 +106,7 @@ Collection of Nier Automata wallpapers.
 
 #### Preview
 
-<img src="Nier%20Automata/2B.jpeg" width="300"> <img src="Nier%20Automata/2b-nier-automata-4k-artwork-qx.png" width="300"> <img src="Nier%20Automata/yorha-no2-type-b-nier-automata-thumb.png" width="300"> <img src="Nier%20Automata/nier-automata-minimal.png" width="300">
+<img src="Nier%20Automata/2B.jpeg" width="300"> <img src="Nier%20Automata/2b-nier-automata.png" width="300"> <img src="Nier%20Automata/yorha-no2-type-b-nier-automata-thumb.png" width="300"> <img src="Nier%20Automata/nier-automata-minimal.png" width="300">
 
 **[Browse the Nier Automata collection](Nier%20Automata/)**
 
@@ -130,7 +130,7 @@ Samurai-themed wallpapers including cyberpunk interpretations, traditional Japan
 
 #### Preview
 
-<img src="Samurai/blue-samurai.jpg" width="300"> <img src="Samurai/cyber-samurai.jpg" width="300"> <img src="Samurai/samurai.jpg" width="300"> <img src="Samurai/samurai-re.jpg" width="300">
+<img src="Samurai/blue-samurai.jpg" width="300"> <img src="Samurai/japan3.jpg" width="300"> <img src="Samurai/samurai.jpg" width="300"> <img src="Samurai/samurai_ wallpaper.jpeg" width="300">
 
 **[Browse the Samurai collection](Samurai/)**
 
