@@ -130,7 +130,7 @@ Samurai-themed wallpapers including cyberpunk interpretations, traditional Japan
 
 #### Preview
 
-<img src="Samurai/blue-samurai.jpg" width="300"> <img src="Samurai/japan3.jpg" width="300"> <img src="Samurai/samurai.jpg" width="300"> <img src="Samurai/samurai_ wallpaper.jpeg" width="300">
+<img src="Samurai/got_red.jpg" width="300"> <img src="Samurai/japan3.jpg" width="300"> <img src="Samurai/samurai.jpg" width="300"> <img src="Samurai/samurai_wallpaper.jpeg" width="300">
 
 **[Browse the Samurai collection](Samurai/)**
 
