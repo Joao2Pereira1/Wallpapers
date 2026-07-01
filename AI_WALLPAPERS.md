@@ -63,6 +63,10 @@ This document lists the wallpapers in this repository that are AI-generated or b
 
 - `2B.jpeg`
 - `nier-automata-minimal.png`
+- `2b-nier-automata.png`
+- `nier-automata.jpg`
+- `yorha-no2-type-b-nier-automata-thumb.png`
+- `nier.jpeg`
 
 ---
 
