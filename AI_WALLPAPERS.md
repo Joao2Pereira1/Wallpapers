@@ -7,7 +7,9 @@ This document lists the wallpapers in this repository that are AI-generated or b
 ## Anime
 
 - `jujutsu-chosu.png`
-- zoro.jpg
+-  `zoro.jpg`
+
+---
 
 ## Cars
 
@@ -16,6 +18,14 @@ This document lists the wallpapers in this repository that are AI-generated or b
 - `car3.jpg`
 - `pastel-car.png`
 - `Retro Makima 90s cars wallpaper.jpeg`
+
+---
+
+## Elden Ring
+
+- `ranni.jpg`
+
+---
 
 ## Landscapes
 
@@ -47,14 +57,20 @@ This document lists the wallpapers in this repository that are AI-generated or b
 - `sunset_japan.jpeg`
 - `tech-city.jpg`
 
-## Pixel Art
-
-- `boat-purple-river.png`
+---
 
 ## Nier: Automata
 
 - `2B.jpeg`
 - `nier-automata-minimal.png`
+
+---
+
+## Pixel Art
+
+- `boat-purple-river.png`
+
+---
 
 ## Samurai
 
