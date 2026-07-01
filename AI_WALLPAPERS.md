@@ -7,6 +7,7 @@ This document lists the wallpapers in this repository that are AI-generated or b
 ## Anime
 
 - `jujutsu-chosu.png`
+- zoro.jpg
 
 ## Cars
 
