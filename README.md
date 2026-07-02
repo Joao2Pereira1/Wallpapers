@@ -159,3 +159,8 @@ Collection of Shadow of the Colossus wallpapers.
 <img src="STOC/Shadow_Of_The_Colossus1.jpg" width="300"> <img src="STOC/Shadow_Of_The_Colossus2.jpg" width="300"> <img src="STOC/Shadow_Of_The_Colossus3.jpg" width="300"> <img src="STOC/Shadow_Of_The_Colossus4.jpeg" width="300">
 
 **[Browse the Shadow of the Colossus collection](STOC/)**
+
+Copyright & Credits
+All wallpapers in this repository belong to their respective creators and owners. Since these images are collected from various public sources across the internet, the original authors are not always listed.
+
+If you own the rights to any wallpaper featured here and want it credited or removed, please open an issue, and it will be updated immediately.
