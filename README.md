@@ -48,7 +48,7 @@ Collection of anime-themed wallpapers featuring characters and scenes from popul
 
 #### Preview
 
-<img src="Animes/demon%20slayer.png" width="300"> <img src="Animes/naruto.png" width="300"> <img src="Animes/one_piece_luffy.jpg" width="300"> <img src="Animes/kaneki.jpeg" width="300">
+<img src="Animes/tanjiro2.png" width="300"> <img src="Animes/naruto.png" width="300"> <img src="Animes/one_piece_luffy.jpg" width="300"> <img src="Animes/kaneki.jpeg" width="300">
 
 **[Browse the Anime collection](Animes/)**
 
