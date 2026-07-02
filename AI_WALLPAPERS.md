@@ -8,6 +8,9 @@ This document lists the wallpapers in this repository that are AI-generated or b
 
 - `jujutsu-chosu.png`
 -  `zoro.jpg`
+-  `sasuke_sharingan.jpg`
+-  `naruto_rasengan.jpg`
+-  `gaara.jpg`
 
 ---
 
