@@ -11,6 +11,7 @@ This document lists the wallpapers in this repository that are AI-generated or b
 * [`sasuke_sharingan.jpg`](Animes/sasuke_sharingan.jpg)
 * [`naruto_rasengan.jpg`](Animes/naruto_rasengan.jpg)
 * [`gaara.jpg`](Animes/gaara.jpg)
+* [`reze.png`](Animes/reze.png)
 
 ---
 
