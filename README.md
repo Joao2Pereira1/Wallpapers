@@ -72,7 +72,7 @@ Desktop-oriented wallpapers including Windows, Microsoft Surface, Arch Linux, ab
 
 #### Preview
 
-<img src="Desktop/arch_purple.png" width="300"> <img src="Desktop/ink_wave.png" width="300"> <img src="Desktop/microsoft2.png" width="300"> <img src="Desktop/microsoft.png" width="300">
+<img src="Desktop/arch_purple.png" width="300"> <img src="Desktop/ink_wave.png" width="300"> <img src="Desktop/ubuntu.png" width="300"> <img src="Desktop/arch_dark_blue.png" width="300">
 
 **[Browse the Desktop collection](Desktop/)**
 
