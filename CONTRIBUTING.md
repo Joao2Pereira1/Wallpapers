@@ -24,4 +24,6 @@ Thank you for considering contributing! To keep the repository organized and hig
 
 ## 💡 Suggesting New Folders
 
+Let's keep expanding and improving this repository. Any ideas on how to improve, create a issue.
+
 If your wallpaper does not fit into any of the existing folders, don't worry! Create an issue or mention it in your Pull Request so we can debate the creation of a new category.
