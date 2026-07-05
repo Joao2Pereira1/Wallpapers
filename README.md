@@ -9,15 +9,36 @@ Featuring anime, landscapes, cyberpunk, pixel art and more. This collection is r
 ## Categories
 
 * [Anime](Animes/)
+
+* [Apocalipse](Apocalipse/)
+
 * [Cars](Cars/)
+
+* [Cities](Cities/)
+
 * [Desktop](Desktop/)
+
 * [Elden Ring](Elden%20Ring/)
+
 * [Fantasy](Fantasy/)
+
+* [Japan](Japan/)
+
 * [Landscapes](Landscapes/)
+
 * [Nier Automata](Nier%20Automata/)
+
 * [Pixel Arts](Pixel%20Arts/)
+
+* [Relaxing](Relaxing/)
+
 * [Samurai](Samurai/)
+
+* [Space](Space/)
+
 * [Shadow of the Colossus](STOC/)
+
+* [Trains](Trains/)
 
 ## Sources
 
@@ -39,7 +60,7 @@ Some wallpapers in this collection were generated using AI.
 See the full list here:
 
 - 📄 [AI_WALLPAPERS.md](AI_WALLPAPERS.md)
-  
+
 ---
 
 ## Anime
@@ -54,6 +75,18 @@ Collection of anime-themed wallpapers featuring characters and scenes from popul
 
 ---
 
+## Apocalipse
+
+Post-apocalyptic landscapes featuring ruined cities, abandoned worlds, and dystopian environments.
+
+#### Preview
+
+<img src="Apocalipse/apocalipse_vibe.png" width="300"> <img src="Apocalipse/apocalipse_vibes.jpg" width="300"> <img src="Apocalipse/robot_apocalipse.jpg" width="300"> <img src="Apocalipse/scary_vibes.png" width="300">
+
+**[Browse the Apocalipse collection](Apocalipse/)**
+
+---
+
 ## Cars
 
 A collection of automotive wallpapers featuring modern, retro, and stylized vehicles.
@@ -63,6 +96,18 @@ A collection of automotive wallpapers featuring modern, retro, and stylized vehi
 <img src="Cars/car1.jpg" width="300"> <img src="Cars/car3.jpg" width="300"> <img src="Cars/pastel_car.png" width="300"> <img src="Cars/car2.jpg" width="300">
 
 **[Browse the Cars collection](Cars/)**
+
+---
+
+## Cities
+
+Collection of city-themed wallpapers featuring cyberpunk skylines, modern architecture, urban landscapes, bridges, and neon-lit environments.
+
+#### Preview
+
+<img src="Cities/cyber_city.jpg" width="300"> <img src="Cities/neon_city.jpg" width="300"> <img title="" src="Cities/purple_city.png" alt="" width="300"> <img src="Cities/sky_city.jpg" width="300">
+
+**[Browse the Cities collection](Cities/)**
 
 ---
 
@@ -102,6 +147,18 @@ Fantasy-themed wallpapers featuring warriors, mages, dragons, landscapes, and da
 
 ---
 
+## Japan
+
+Collection of wallpapers inspired by Japan, featuring sakura trees, temples, snowy landscapes, traditional architecture, and atmospheric scenery.
+
+#### Preview
+
+<img src="Japan/japan.jpg" width="300"> <img src="Japan/japan_temples_sakuras.jpg" width="300"> <img src="Japan/sakura_tree.jpg" width="300"> <img src="Japan/sunset_japan.jpeg" width="300">
+
+**[Browse the Japan collection](Japan/)**
+
+---
+
 ## Nier Automata
 
 Collection of Nier Automata wallpapers.
@@ -126,6 +183,18 @@ Pixel art and stylized digital wallpapers featuring cities, landscapes, neon env
 
 ---
 
+## Relaxing
+
+Relaxing wallpapers featuring peaceful landscapes, sunsets, Firewatch-inspired scenery, cozy environments, and calm atmospheres.
+
+#### Preview
+
+<img src="Relaxing/cat_girl_window.jpg" width="300"> <img src="Relaxing/girl_reflecting.jpg" width="300"> <img src="Relaxing/girl_chilling.jpg" width="300"> <img src="Relaxing/girl_looking_sky.jpg" width="300">
+
+**[Browse the Relaxing collection](Relaxing/)**
+
+---
+
 ## Samurai
 
 Samurai-themed wallpapers including cyberpunk interpretations, traditional Japanese aesthetics, and cinematic compositions.
@@ -144,9 +213,21 @@ A large collection of landscape wallpapers including natural environments, fanta
 
 #### Preview
 
-<img src="Landscapes/beautiful_sky.jpg" width="300"> <img src="Landscapes/cyber_city.jpg" width="300"> <img src="Landscapes/moon_pink.jpg" width="300"> <img src="Landscapes/apocalipse_vibe.png" width="300">
+<img src="Landscapes/beautiful_sky.jpg" width="300"> <img src="Landscapes/cowboy.png" width="300"> <img src="Landscapes/hoops.jpg" width="300"> <img src="Landscapes/ligh_pole.jpg" width="300">
 
 **[Browse the Landscapes collection](Landscapes/)**
+
+---
+
+## Space
+
+Collection of space-themed wallpapers featuring planets, galaxies, astronauts, spacecraft, and sci-fi environments.
+
+#### Preview
+
+<img src="Space/astronaut_nord.png" width="300"> <img src="Space/planet_with_sunrise.png" width="300"> <img src="Space/saturn_rings.jpg" width="300"> <img src="Space/spaceship.png" width="300">
+
+**[Browse the Space collection](Space/)**
 
 ---
 
@@ -159,6 +240,20 @@ Collection of Shadow of the Colossus wallpapers.
 <img src="STOC/Shadow_Of_The_Colossus1.jpg" width="300"> <img src="STOC/Shadow_Of_The_Colossus2.jpg" width="300"> <img src="STOC/Shadow_Of_The_Colossus3.jpg" width="300"> <img src="STOC/Shadow_Of_The_Colossus4.jpeg" width="300">
 
 **[Browse the Shadow of the Colossus collection](STOC/)**
+
+---
+
+## Trains
+
+Collection of train-themed wallpapers featuring scenic railways, Japanese trains, lakes, and cinematic landscapes.
+
+#### Preview
+
+<img src="Trains/train_sakura.jpg" width="300"> <img src="Trains/train_view.jpg" width="300"> <img src="Trains/train_and_lake.png" width="300"> <img src="Trains/train_stop_underwater.jpg" width="300">
+
+**[Browse the Trains collection](Trains/)**
+
+---
 
 Copyright & Credits
 All wallpapers in this repository belong to their respective creators and owners. Since these images are collected from various public sources across the internet, the original authors are not always listed.
