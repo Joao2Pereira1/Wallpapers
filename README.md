@@ -69,7 +69,7 @@ Collection of anime-themed wallpapers featuring characters and scenes from popul
 
 #### Preview
 
-<img src="Animes/tanjiro2.png" width="300"> <img src="Animes/naruto.png" width="300"> <img src="Animes/one_piece_luffy.jpg" width="300"> <img src="Animes/kaneki.jpeg" width="300">
+<img title="" src="Animes/demon_tanjiro2.png" alt="" width="300"> <img src="Animes/naruto.png" width="300"> <img src="Animes/one_piece_luffy.jpg" width="300"> <img src="Animes/kaneki.jpeg" width="300">
 
 **[Browse the Anime collection](Animes/)**
 
@@ -81,7 +81,7 @@ Post-apocalyptic landscapes featuring ruined cities, abandoned worlds, and dysto
 
 #### Preview
 
-<img src="Apocalipse/apocalipse_vibe.png" width="300"> <img src="Apocalipse/apocalipse_vibes.jpg" width="300"> <img src="Apocalipse/robot_apocalipse.jpg" width="300"> <img src="Apocalipse/scary_vibes.png" width="300">
+<img src="Apocalipse/apocalipse_vibe.png" width="300"> <img src="Apocalipse/apocalipse_vibes.jpg" width="300"> <img src="Apocalipse/robot_apocalipse.jpg" width="300"> <img title="" src="Apocalipse/unique_vibes.png" alt="" width="300">
 
 **[Browse the Apocalipse collection](Apocalipse/)**
 
@@ -153,7 +153,7 @@ Collection of wallpapers inspired by Japan, featuring sakura trees, temples, sno
 
 #### Preview
 
-<img src="Japan/japan.jpg" width="300"> <img src="Japan/japan_temples_sakuras.jpg" width="300"> <img src="Japan/sakura_tree.jpg" width="300"> <img src="Japan/sunset_japan.jpeg" width="300">
+<img src="Japan/japan.jpg" width="300"> <img src="Japan/japan_temples_sakuras.jpg" width="300"> <img title="" src="Japan/japan_weird_vibes.jpg" alt="" width="300"> <img title="" src="Japan/sekiro.jpg" alt="" width="300">
 
 **[Browse the Japan collection](Japan/)**
 
@@ -252,6 +252,18 @@ Collection of train-themed wallpapers featuring scenic railways, Japanese trains
 <img src="Trains/train_sakura.jpg" width="300"> <img src="Trains/train_view.jpg" width="300"> <img src="Trains/train_and_lake.png" width="300"> <img src="Trains/train_stop_underwater.jpg" width="300">
 
 **[Browse the Trains collection](Trains/)**
+
+---
+
+## My recommendations
+
+Collection of the wallpapers that i love more.
+
+#### Preview
+
+<img src="Animes/naruto_madara.jpg" width="300"> <img src="Animes/evangelion_asuka2.png" width="300"> <img src="Desktop/arch_blue.jpeg" width="300"> <img src="Desktop/arch_purple.png" width="300"> <img src="Elden%20Ring/fire_soldier.png" width="300"> <img src="Cities/crane.png" width="300"> <img src="Fantasy/castle.jpg" width="300"> <img src="Landscapes/ligh_pole.jpg" width="300"> <img src="Nier%20Automata/2b_nier_automata.png" width="300"> <img src="Japan/sekiro.jpg" width="300"> <img title="" src="Landscapes/cowboy.png" alt="" width="300"> <img src="Relaxing/girl_painting.png" width="300"> <img src="Relaxing/girl_chilling.jpg" width="300"> <img src="Relaxing/girl_reflecting.jpg" width="300"> <img src="Landscapes/ocean_with_cloud.png" width="300"> <img src="Samurai/samurai_wallpaper.jpeg" width="300">
+
+**[Browse the Shadow of the Colossus collection](STOC/)**
 
 ---
 
