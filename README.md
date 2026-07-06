@@ -4,7 +4,7 @@ A curated collection of free high-quality wallpapers gathered from various sourc
 
 Featuring anime, landscapes, cyberpunk, pixel art and more. This collection is regularly updated with new wallpapers. If you enjoy it, consider giving the repository a ⭐ to stay updated and support the project.
 
-> To make it easier to view the wallpapers in each folder or directory, there is a file named README.md that displays previews of all the wallpapers contained in the directory.
+> To make it easier to view the wallpapers in each folder or directory, there is a file named README.md that displays previews of all the wallpapers contained in the directory. Also i you want to download all wallpapers at once, use the release.
 
 ## Categories
 
