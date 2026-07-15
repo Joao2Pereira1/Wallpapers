@@ -1,5 +1,11 @@
 # Wallpapers
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Landscape/plane.png" alt="Wallpapers Banner" width="100%" style="border-radius: 8px;">
+  <br>
+  <em>✈️ Fly into my collection...</em>
+</p>
+
 A curated collection of free high-quality wallpapers gathered from various sources.
 
 Featuring anime, landscapes, cyberpunk, pixel art and more. This collection is regularly updated with new wallpapers. If you enjoy it, consider giving the repository a ⭐ to stay updated and support the project.
