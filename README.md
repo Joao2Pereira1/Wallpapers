@@ -1,9 +1,7 @@
 # Wallpapers
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Joao2Pereira1/Wallpapers/main/Landscape/plane.png" alt="Wallpapers Banner" width="100%" style="border-radius: 8px;">
-  <br>
-  <em>✈️ Fly into my collection...</em>
+  <img src="banner.png" alt="Wallpapers Banner" width="100%" style="border-radius: 8px;">
 </p>
 
 A curated collection of free high-quality wallpapers gathered from various sources.
