@@ -261,7 +261,8 @@ See the full list here:
 
 ---
 
-Copyright & Credits
+## Copyright & Credits
+
 All wallpapers in this repository belong to their respective creators and owners. Since these images are collected from various public sources across the internet, the original authors are not always listed.
 
 If you own the rights to any wallpaper featured here and want it credited or removed, please open an issue, and it will be updated immediately.
