@@ -72,6 +72,7 @@ This document lists the wallpapers in this repository that are AI-generated or b
 * [`nier_automata.jpg`](Nier%20Automata/nier_automata.jpg)
 * [`yorha_no2_type_b_nier_automata_thumb.png`](Nier%20Automata/yorha_no2_type_b_nier_automata_thumb.png)
 * [`nier.jpeg`](Nier%20Automata/nier.jpeg)
+* [`nierautomata_moto.png`](Nier%20Automata/nierautomata_moto)
 
 ---
 

@@ -6,11 +6,11 @@
 
 A curated collection of free high-quality wallpapers gathered from various sources.
 
-Featuring anime, landscapes, cyberpunk, pixel art and more. This collection is regularly updated with new wallpapers. If you enjoy it, consider giving the repository a ‚≠ê to stay updated and support the project.
+Featuring anime, landscapes, cyberpunk, pixel art and more. This collection is regularly updated with new wallpapers. If you enjoy it, consider giving the repository a ‚≠? to stay updated and support the project.
 
-üìÅ Each folder has its own `README.md` with a preview of all the wallpapers.
-üì¶ Want the whole collection at once? Check out the [Releases](../../releases) section.
-ü§ùüèª Want to contribute? Check out [CONTRIBUTING.md](CONTRIBUTING.md).
+?ìÅ Each folder has its own `README.md` with a preview of all the wallpapers.
+?ì¶ Want the whole collection at once? Check out the [Releases](../../releases) section.
+?§ùüèª Want to contribute? Check out [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Index
 
@@ -18,14 +18,17 @@ Featuring anime, landscapes, cyberpunk, pixel art and more. This collection is r
 - [Apocalipse](#apocalipse)
 - [Cars](#cars)
 - [Cities](#cities)
-- [Desktop](#desktop)
 - [Elden Ring](#elden-ring)
 - [Fantasy](#fantasy)
 - [Japan](#japan)
+- [Logos](#logos)
+- [Mountains](#mountains)
 - [Nier Automata](#nier-automata)
 - [Pixel Arts](#pixel-arts)
 - [Relaxing](#relaxing)
 - [Samurai](#samurai)
+- [Sea](#sea)
+- [Surfaces](#surfaces)
 - [Landscapes](#landscapes)
 - [Space](#space)
 - [Shadow of the Colossus](#shadow-of-the-colossus)
@@ -85,18 +88,6 @@ Collection of city-themed wallpapers featuring cyberpunk skylines, modern archit
 
 ---
 
-## Desktop
-
-Desktop-oriented wallpapers including Windows, Microsoft Surface, Arch Linux, abstract designs, and minimalist backgrounds.
-
-#### Preview
-
-<img src="Desktop/arch_purple.png" alt="Arch Linux purple desktop wallpaper" width="300"> <img src="Desktop/ink_wave.png" alt="Abstract ink wave desktop wallpaper" width="300"> <img src="Desktop/ubuntu.png" alt="Ubuntu Linux desktop wallpaper" width="300"> <img src="Desktop/arch_dark_blue.png" alt="Arch Linux dark blue minimalist wallpaper" width="300">
-
-**[Browse the Desktop collection](Desktop/)**
-
----
-
 ## Elden Ring
 
 Wallpapers inspired by Elden Ring, featuring iconic characters, bosses, environments, and memorable locations from the game.
@@ -130,6 +121,30 @@ Collection of wallpapers inspired by Japan, featuring sakura trees, temples, sno
 <img src="Japan/japan.jpg" alt="Japan traditional landscape wallpaper" width="300"> <img src="Japan/japan_temples_sakuras.jpg" alt="Japan temple with sakura trees wallpaper" width="300"> <img src="Japan/japan_weird_vibes.jpg" alt="Japan atmospheric surreal wallpaper" width="300"> <img src="Japan/sekiro.jpg" alt="Sekiro Japan wallpaper" width="300">
 
 **[Browse the Japan collection](Japan/)**
+
+---
+
+## Logos
+
+Wallpapers featuring clean, minimalist, and stylized logos from operating systems, that includes arch-linux, ubuntu, windows and others.
+
+#### Preview
+
+<img src="Logos/arch_purple.png" alt="Arch Linux stylized purple logo wallpaper" width="300"> <img src="Logos/arch_blue.jpeg" alt="Arch Linux minimalist blue logo wallpaper" width="300"> <img src="Logos/ubuntu3.png" alt="Ubuntu Linux classic logo wallpaper" width="300"> <img src="Logos/windows_joke.png" alt="Windows funny  joke logo wallpaper" width="300">
+
+**[Browse the Logos collection](Logos/)**
+
+---
+
+## Mountains
+
+Stunning mountain landscapes, featuring snowy peaks, rocky cliffs, serene high-altitude lakes, and cinematic nature vistas.
+
+#### Preview
+
+<img src="Mountains/snow_mountains.jpg" alt="Majestic mountain covered in snow" width="300"> <img src="Mountains/moon_mountain.jpg" alt="Night landscape featuring a mountain under a full moon" width="300"> <img src="Mountains/viking_lake.jpg" alt="Viking standing and looking at a calm mountain lake" width="300"> <img src="Mountains/firewatch_green.jpg" alt="Firewatch inspired green forest and mountain landscape" width="300">
+
+**[Browse the Mountains collection](Mountains/)**
 
 ---
 
@@ -178,6 +193,30 @@ Samurai-themed wallpapers including cyberpunk interpretations, traditional Japan
 <img src="Samurai/got_red.jpg" alt="Samurai red-toned cinematic wallpaper" width="300"> <img src="Samurai/japan3.jpg" alt="Traditional Japanese samurai wallpaper" width="300"> <img src="Samurai/samurai.jpg" alt="Samurai warrior wallpaper" width="300"> <img src="Samurai/samurai_wallpaper.jpeg" alt="Cyberpunk samurai wallpaper" width="300">
 
 **[Browse the Samurai collection](Samurai/)**
+
+---
+
+## Sea
+
+Beautiful oceanic wallpapers featuring deep blue waters, waves, tropical beaches, and breathtaking marine horizons.
+
+#### Preview
+
+<img src="Sea/sea.png" alt="Calm open sea vector style illustration wallpaper" width="300"> <img src="Sea/sea.jpg" alt="Deep blue ocean waves wallpaper" width="300"> <img src="Sea/sunset.png" alt="Beautiful sea sunset with warm colors wallpaper" width="300"> <img src="Sea/ocean_with_cloud.png" alt="Scenic ocean landscape under a dramatic cloudy sky" width="300">
+
+**[Browse the Sea collection](Sea/)**
+
+---
+
+## Surfaces
+
+Abstract textures, material designs, digital patterns, and clean geometric surfaces perfect for a minimalist setup.
+
+#### Preview
+
+<img src="Surfaces/wave.png" alt="Abstract fluid wave texture wallpaper" width="300"> <img src="Surfaces/blue_wave.png" alt="Smooth abstract blue wave surface wallpaper" width="300"> <img src="Surfaces/stone_fragments.webp" alt="Close-up of modern abstract stone fragments texture" width="300"> <img src="Surfaces/ink_wave.png" alt="Abstract dark ink wave texture wallpaper" width="300">
+
+**[Browse the Surfaces collection](Surfaces/)**
 
 ---
 
@@ -257,7 +296,7 @@ Some wallpapers in this collection were generated using AI.
 
 See the full list here:
 
-- üìÑ [AI_WALLPAPERS.md](AI_WALLPAPERS.md)
+- ?ìÑ [AI_WALLPAPERS.md](AI_WALLPAPERS.md)
 
 ---
 
