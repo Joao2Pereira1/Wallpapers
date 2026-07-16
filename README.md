@@ -8,37 +8,32 @@ A curated collection of free high-quality wallpapers gathered from various sourc
 
 Featuring anime, landscapes, cyberpunk, pixel art and more. This collection is regularly updated with new wallpapers. If you enjoy it, consider giving the repository a ⭐ to stay updated and support the project.
 
-Each folder has a README.md file where you can preview all the wallpapers before downloading them.
-To download the entire collection at once, just check the Releases section!
+📁 Each folder has its own `README.md` with a preview of all the wallpapers.
+📦 Want the whole collection at once? Check out the [Releases](../../releases) section.
+🤝🏻 Want to contribute? Check out [CONTRIBUTING.md](CONTRIBUTING.md).
 
-> 🤝🏻 Want to contribute? Check out our [CONTRIBUTING.md](CONTRIBUTING.md) to see how you can add your own wallpapers to the collection!
+## Index
 
-## Categories
-
-* [Anime](Animes/)
-* [Apocalipse](Apocalipse/)
-* [Cars](Cars/)
-* [Cities](Cities/)
-* [Desktop](Desktop/)
-* [Elden Ring](Elden%20Ring/)
-* [Fantasy](Fantasy/)
-* [Japan](Japan/)
-* [Landscapes](Landscapes/)
-* [Nier Automata](Nier%20Automata/)
-* [Pixel Arts](Pixel%20Arts/)
-* [Relaxing](Relaxing/)
-* [Samurai](Samurai/)
-* [Space](Space/)
-* [Shadow of the Colossus](STOC/)
-* [Trains](Trains/)
-
-## AI Generated Wallpapers
-
-Some wallpapers in this collection were generated using AI.
-
-See the full list here:
-
-- 📄 [AI_WALLPAPERS.md](AI_WALLPAPERS.md)
+- [Anime](#anime)
+- [Apocalipse](#apocalipse)
+- [Cars](#cars)
+- [Cities](#cities)
+- [Desktop](#desktop)
+- [Elden Ring](#elden-ring)
+- [Fantasy](#fantasy)
+- [Japan](#japan)
+- [Nier Automata](#nier-automata)
+- [Pixel Arts](#pixel-arts)
+- [Relaxing](#relaxing)
+- [Samurai](#samurai)
+- [Landscapes](#landscapes)
+- [Space](#space)
+- [Shadow of the Colossus](#shadow-of-the-colossus)
+- [Trains](#trains)
+- [AI Generated Wallpapers](#ai-generated-wallpapers)
+- [My Recommendations](#my-recommendations)
+- [Sources](#sources)
+- [Copyright & Credits](#copyright--credits)
 
 ---
 
@@ -242,8 +237,6 @@ Collection of the wallpapers that i love more.
 
 <img src="Animes/naruto_madara.jpg" width="300"> <img src="Animes/evangelion_asuka2.png" width="300"> <img src="Desktop/arch_blue.jpeg" width="300"> <img src="Desktop/arch_purple.png" width="300"> <img src="Elden%20Ring/fire_soldier.png" width="300"> <img src="Cities/crane.png" width="300"> <img src="Fantasy/castle.jpg" width="300"> <img src="Landscapes/ligh_pole.jpg" width="300"> <img src="Nier%20Automata/2b_nier_automata.png" width="300"> <img src="Japan/sekiro.jpg" width="300"> <img title="" src="Landscapes/cowboy.png" alt="" width="300"> <img src="Relaxing/girl_painting.png" width="300"> <img src="Relaxing/girl_chilling.jpg" width="300"> <img src="Relaxing/girl_reflecting.jpg" width="300"> <img src="Landscapes/ocean_with_cloud.png" width="300"> <img src="Samurai/samurai_wallpaper.jpeg" width="300">
 
-**[Browse the Shadow of the Colossus collection](STOC/)**
-
 ---
 
 ## Sources
@@ -255,6 +248,16 @@ Collection of the wallpapers that i love more.
 * https://backiee.com
 * https://alphacoders.com
 * https://www.artstation.com/
+
+---
+
+## AI Generated Wallpapers
+
+Some wallpapers in this collection were generated using AI.
+
+See the full list here:
+
+- 📄 [AI_WALLPAPERS.md](AI_WALLPAPERS.md)
 
 ---
 
