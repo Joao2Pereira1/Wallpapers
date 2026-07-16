@@ -26,9 +26,37 @@ This document lists the wallpapers in this repository that are AI-generated or b
 
 ---
 
+## Cities
+
+* [`boy_looking-city.jpg`](Landscapes/boy_looking-city.jpg)
+* [`tech_city.jpg`](Cities/tech_city.jpg)
+* [`city_bridge.jpg`](Landscapes/city_bridge.jpg)
+* [`cyber_city.jpg`](Landscapes/cyber_city.jpg)
+  
+---
+
 ## Elden Ring
 
 * [`ranni.jpg`](Elden%20Ring/ranni.jpg)
+
+---
+
+## Relaxing
+
+* [`girl_looking_sky.jpg`](Relaxing/girl_looking_sky.jpg)
+
+---
+
+## Japan
+
+* [`japan.jpg`](Japan/japan.jpg)
+* [`japan_snow.jpg`](Japan/japan_snow.jpg)
+* [`japan_temples-sakuras.jpg`](Japan/japan_temples-sakuras.jpg)
+* [`japan_street.jpeg`](Japan/japan_street.jpeg)
+* [`japanese_war.jpg`](Japan/japanese_war.jpg)
+* [`sunset_japan.jpeg`](Japan/sunset_japan.jpeg)
+* [`sakura_tree.jpg`](Japan/sakura_tree.jpg)
+* [`purple_japan-tree.jpg`](Japan/purple_japan-tree.jpg)
 
 ---
 
@@ -36,31 +64,17 @@ This document lists the wallpapers in this repository that are AI-generated or b
 
 * [`beautiful-sky.jpg`](Landscapes/beautiful-sky.jpg)
 * [`blue_sky.jpg`](Landscapes/blue_sky.jpg)
-* [`boy_looking-city.jpg`](Landscapes/boy_looking-city.jpg)
-* [`celestial_tide_over_the_anime_sea_backiee_5K.jpg`](Landscapes/celestial_tide_over_the_anime_sea_backiee_5K.jpg)
-* [`city_bridge.jpg`](Landscapes/city_bridge.jpg)
-* [`cyber_city.jpg`](Landscapes/cyber_city.jpg)
 * [`dark_sun.jpg`](Landscapes/dark_sun.jpg)
 * [`firewatch.jpg`](Landscapes/firewatch.jpg)
 * [`firewatch_green.jpg`](Landscapes/firewatch_green.jpg)
 * [`forest.jpg`](Landscapes/forest.jpg)
-* [`girl_looking-sky.jpg`](Landscapes/girl_looking-sky.jpg)
-* [`japan.jpg`](Landscapes/japan.jpg)
-* [`japan_snow.jpg`](Landscapes/japan_snow.jpg)
-* [`japan_temples-sakuras.jpg`](Landscapes/japan_temples-sakuras.jpg)
-* [`japan_street.jpeg`](Landscapes/japan_street.jpeg)
-* [`japanese_war.jpg`](Landscapes/japanese_war.jpg)
 * [`lighthouse2.jpg`](Landscapes/lighthouse2.jpg)
 * [`miami_city.jpg`](Landscapes/miami_city.jpg)
 * [`mountain_pink.webp`](Landscapes/mountain_pink.webp)
 * [`pink_sunset_firewatch.png`](Landscapes/pink_sunset_firewatch.png)
-* [`purple_japan-tree.jpg`](Landscapes/purple_japan-tree.jpg)
 * [`purple_sky.jpg`](Landscapes/purple_sky.jpg)
 * [`red_forest.jpg`](Landscapes/red_forest.jpg)
-* [`sakura_tree.jpg`](Landscapes/sakura_tree.jpg)
 * [`sea.png`](Landscapes/sea.png)
-* [`sunset_japan.jpeg`](Landscapes/sunset_japan.jpeg)
-* [`tech_city.jpg`](Landscapes/tech_city.jpg)
 
 ---
 
@@ -90,3 +104,10 @@ This document lists the wallpapers in this repository that are AI-generated or b
 * [`samurai_wallpaper.jpeg`](Samurai/samurai_wallpaper.jpeg)
 * [`samurai_thinking.jpg`](Samurai/samurai_thinking.jpg)
 * [`samurai.jpg`](Samurai/samurai.jpg)
+
+---
+
+## Sea
+
+* [`sea.jpg`](Sea/sea.jpg)
+* [`sea.png`](Sea/sea.png)
