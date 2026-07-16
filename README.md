@@ -30,9 +30,9 @@ Featuring anime, landscapes, cyberpunk, pixel art and more. This collection is r
 - [Space](#space)
 - [Shadow of the Colossus](#shadow-of-the-colossus)
 - [Trains](#trains)
-- [AI Generated Wallpapers](#ai-generated-wallpapers)
 - [My Recommendations](#my-recommendations)
 - [Sources](#sources)
+- [AI Generated Wallpapers](#ai-generated-wallpapers)
 - [Copyright & Credits](#copyright--credits)
 
 ---
