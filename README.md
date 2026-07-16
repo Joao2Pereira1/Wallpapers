@@ -43,7 +43,7 @@ Collection of anime-themed wallpapers featuring characters and scenes from popul
 
 #### Preview
 
-<img title="" src="Animes/demon_tanjiro2.png" alt="" width="300"> <img src="Animes/naruto.png" width="300"> <img src="Animes/one_piece_luffy.jpg" width="300"> <img src="Animes/kaneki.jpeg" width="300">
+<img src="Animes/demon_tanjiro2.png" alt="Demon Slayer Tanjiro anime wallpaper" width="300"> <img src="Animes/naruto.png" alt="Naruto anime wallpaper" width="300"> <img src="Animes/one_piece_luffy.jpg" alt="One Piece Luffy anime wallpaper" width="300"> <img src="Animes/kaneki.jpeg" alt="Tokyo Ghoul Kaneki anime wallpaper" width="300">
 
 **[Browse the Anime collection](Animes/)**
 
@@ -55,7 +55,7 @@ Post-apocalyptic landscapes featuring ruined cities, abandoned worlds, and dysto
 
 #### Preview
 
-<img src="Apocalipse/apocalipse_vibe.png" width="300"> <img src="Apocalipse/apocalipse_vibes.jpg" width="300"> <img src="Apocalipse/robot_apocalipse.jpg" width="300"> <img title="" src="Apocalipse/unique_vibes.png" alt="" width="300">
+<img src="Apocalipse/apocalipse_vibe.png" alt="Post-apocalyptic ruined city wallpaper" width="300"> <img src="Apocalipse/apocalipse_vibes.jpg" alt="Dystopian apocalypse landscape wallpaper" width="300"> <img src="Apocalipse/robot_apocalipse.jpg" alt="Robot apocalypse sci-fi wallpaper" width="300"> <img src="Apocalipse/unique_vibes.png" alt="Abandoned world apocalyptic wallpaper" width="300">
 
 **[Browse the Apocalipse collection](Apocalipse/)**
 
@@ -67,7 +67,7 @@ A collection of automotive wallpapers featuring modern, retro, and stylized vehi
 
 #### Preview
 
-<img src="Cars/car1.jpg" width="300"> <img src="Cars/car3.jpg" width="300"> <img src="Cars/pastel_car.png" width="300"> <img src="Cars/car2.jpg" width="300">
+<img src="Cars/car1.jpg" alt="Modern sports car wallpaper" width="300"> <img src="Cars/car3.jpg" alt="Retro car wallpaper" width="300"> <img src="Cars/pastel_car.png" alt="Pastel-colored stylized car wallpaper" width="300"> <img src="Cars/car2.jpg" alt="Automotive wallpaper, vehicle close-up" width="300">
 
 **[Browse the Cars collection](Cars/)**
 
@@ -79,7 +79,7 @@ Collection of city-themed wallpapers featuring cyberpunk skylines, modern archit
 
 #### Preview
 
-<img src="Cities/cyber_city.jpg" width="300"> <img src="Cities/neon_city.jpg" width="300"> <img title="" src="Cities/purple_city.png" alt="" width="300"> <img src="Cities/sky_city.jpg" width="300">
+<img src="Cities/cyber_city.jpg" alt="Cyberpunk city skyline wallpaper, neon lights" width="300"> <img src="Cities/neon_city.jpg" alt="Neon-lit city wallpaper at night" width="300"> <img src="Cities/purple_city.png" alt="Purple-toned city skyline wallpaper" width="300"> <img src="Cities/sky_city.jpg" alt="Urban skyline wallpaper, cloudy sky" width="300">
 
 **[Browse the Cities collection](Cities/)**
 
@@ -91,7 +91,7 @@ Desktop-oriented wallpapers including Windows, Microsoft Surface, Arch Linux, ab
 
 #### Preview
 
-<img src="Desktop/arch_purple.png" width="300"> <img src="Desktop/ink_wave.png" width="300"> <img src="Desktop/ubuntu.png" width="300"> <img src="Desktop/arch_dark_blue.png" width="300">
+<img src="Desktop/arch_purple.png" alt="Arch Linux purple desktop wallpaper" width="300"> <img src="Desktop/ink_wave.png" alt="Abstract ink wave desktop wallpaper" width="300"> <img src="Desktop/ubuntu.png" alt="Ubuntu Linux desktop wallpaper" width="300"> <img src="Desktop/arch_dark_blue.png" alt="Arch Linux dark blue minimalist wallpaper" width="300">
 
 **[Browse the Desktop collection](Desktop/)**
 
@@ -103,7 +103,7 @@ Wallpapers inspired by Elden Ring, featuring iconic characters, bosses, environm
 
 #### Preview
 
-<img src="Elden%20Ring/malenia.png" width="300"> <img src="Elden%20Ring/ranni.jpg" width="300"> <img src="Elden%20Ring/wizard.png" width="300"> <img src="Elden%20Ring/serpent.jpg" width="300">
+<img src="Elden%20Ring/malenia.png" alt="Elden Ring Malenia boss wallpaper" width="300"> <img src="Elden%20Ring/ranni.jpg" alt="Elden Ring Ranni character wallpaper" width="300"> <img src="Elden%20Ring/wizard.png" alt="Elden Ring wizard character wallpaper" width="300"> <img src="Elden%20Ring/serpent.jpg" alt="Elden Ring Rikard boss wallpaper" width="300">
 
 **[Browse the Elden Ring collection](Elden%20Ring/)**
 
@@ -115,7 +115,7 @@ Fantasy-themed wallpapers featuring warriors, mages, dragons, landscapes, and da
 
 #### Preview
 
-<img src="Fantasy/blue_tree_mage.jpg" width="300"> <img src="Fantasy/mountain_spell.png" width="300"> <img src="Fantasy/gunner.png" width="300"> <img src="Fantasy/soldier_sunset.jpg" width="300">
+<img src="Fantasy/blue_tree_mage.jpg" alt="Fantasy mage under blue tree wallpaper" width="300"> <img src="Fantasy/mountain_spell.png" alt="Fantasy mountain magic spell wallpaper" width="300"> <img src="Fantasy/gunner.png" alt="Fantasy gunner character wallpaper" width="300"> <img src="Fantasy/soldier_sunset.jpg" alt="Fantasy soldier sunset wallpaper" width="300">
 
 **[Browse the Fantasy collection](Fantasy/)**
 
@@ -127,7 +127,7 @@ Collection of wallpapers inspired by Japan, featuring sakura trees, temples, sno
 
 #### Preview
 
-<img src="Japan/japan.jpg" width="300"> <img src="Japan/japan_temples_sakuras.jpg" width="300"> <img title="" src="Japan/japan_weird_vibes.jpg" alt="" width="300"> <img title="" src="Japan/sekiro.jpg" alt="" width="300">
+<img src="Japan/japan.jpg" alt="Japan traditional landscape wallpaper" width="300"> <img src="Japan/japan_temples_sakuras.jpg" alt="Japan temple with sakura trees wallpaper" width="300"> <img src="Japan/japan_weird_vibes.jpg" alt="Japan atmospheric surreal wallpaper" width="300"> <img src="Japan/sekiro.jpg" alt="Sekiro Japan wallpaper" width="300">
 
 **[Browse the Japan collection](Japan/)**
 
@@ -139,7 +139,7 @@ Collection of Nier Automata wallpapers.
 
 #### Preview
 
-<img src="Nier%20Automata/2B.jpeg" width="300"> <img src="Nier%20Automata/2b_nier_automata.png" width="300"> <img src="Nier%20Automata/yorha_no2_type_b_nier_automata_thumb.png" width="300"> <img src="Nier%20Automata/nier_automata_minimal.png" width="300">
+<img src="Nier%20Automata/2B.jpeg" alt="Nier Automata 2B wallpaper" width="300"> <img src="Nier%20Automata/2b_nier_automata.png" alt="Nier Automata 2B character wallpaper" width="300"> <img src="Nier%20Automata/yorha_no2_type_b_nier_automata_thumb.png" alt="Nier Automata YoRHa No.2 Type B wallpaper" width="300"> <img src="Nier%20Automata/nier_automata_minimal.png" alt="Nier Automata minimalist wallpaper" width="300">
 
 **[Browse the Nier Automata collection](Nier%20Automata/)**
 
@@ -151,7 +151,7 @@ Pixel art and stylized digital wallpapers featuring cities, landscapes, neon env
 
 #### Preview
 
-<img src="Pixel%20Arts/blue_city.jpg" width="300"> <img src="Pixel%20Arts/purple_sky.png" width="300"> <img src="Pixel%20Arts/tokyo_purple.jpg" width="300"> <img src="Pixel%20Arts/fantasy_style.jpg" width="300">
+<img src="Pixel%20Arts/blue_city.jpg" alt="Blue pixel art city wallpaper" width="300"> <img src="Pixel%20Arts/purple_sky.png" alt="Purple pixel art sky wallpaper" width="300"> <img src="Pixel%20Arts/tokyo_purple.jpg" alt="Tokyo purple pixel art wallpaper" width="300"> <img src="Pixel%20Arts/fantasy_style.jpg" alt="Fantasy-style pixel art wallpaper" width="300">
 
 **[Browse the Pixel Arts collection](Pixel%20Arts/)**
 
@@ -163,7 +163,7 @@ Relaxing wallpapers featuring peaceful landscapes, sunsets, Firewatch-inspired s
 
 #### Preview
 
-<img src="Relaxing/cat_girl_window.jpg" width="300"> <img src="Relaxing/girl_reflecting.jpg" width="300"> <img src="Relaxing/girl_chilling.jpg" width="300"> <img src="Relaxing/girl_looking_sky.jpg" width="300">
+<img src="Relaxing/cat_girl_window.jpg" alt="Relaxing anime girl by window wallpaper" width="300"> <img src="Relaxing/girl_reflecting.jpg" alt="Peaceful girl reflecting wallpaper" width="300"> <img src="Relaxing/girl_chilling.jpg" alt="Calm chill anime girl wallpaper" width="300"> <img src="Relaxing/girl_looking_sky.jpg" alt="Girl looking at sky relaxing wallpaper" width="300">
 
 **[Browse the Relaxing collection](Relaxing/)**
 
@@ -175,7 +175,7 @@ Samurai-themed wallpapers including cyberpunk interpretations, traditional Japan
 
 #### Preview
 
-<img src="Samurai/got_red.jpg" width="300"> <img src="Samurai/japan3.jpg" width="300"> <img src="Samurai/samurai.jpg" width="300"> <img src="Samurai/samurai_wallpaper.jpeg" width="300">
+<img src="Samurai/got_red.jpg" alt="Samurai red-toned cinematic wallpaper" width="300"> <img src="Samurai/japan3.jpg" alt="Traditional Japanese samurai wallpaper" width="300"> <img src="Samurai/samurai.jpg" alt="Samurai warrior wallpaper" width="300"> <img src="Samurai/samurai_wallpaper.jpeg" alt="Cyberpunk samurai wallpaper" width="300">
 
 **[Browse the Samurai collection](Samurai/)**
 
@@ -187,7 +187,7 @@ A large collection of landscape wallpapers including natural environments, fanta
 
 #### Preview
 
-<img src="Landscapes/beautiful_sky.jpg" width="300"> <img src="Landscapes/cowboy.png" width="300"> <img src="Landscapes/hoops.jpg" width="300"> <img src="Landscapes/ligh_pole.jpg" width="300">
+<img src="Landscapes/beautiful_sky.jpg" alt="Beautiful sky landscape wallpaper" width="300"> <img src="Landscapes/cowboy.png" alt="Cowboy landscape wallpaper" width="300"> <img src="Landscapes/hoops.jpg" alt="Atmospheric landscape wallpaper" width="300"> <img src="Landscapes/ligh_pole.jpg" alt="Light pole night landscape wallpaper" width="300">
 
 **[Browse the Landscapes collection](Landscapes/)**
 
@@ -199,7 +199,7 @@ Collection of space-themed wallpapers featuring planets, galaxies, astronauts, s
 
 #### Preview
 
-<img src="Space/astronaut_nord.png" width="300"> <img src="Space/planet_with_sunrise.png" width="300"> <img src="Space/saturn_rings.jpg" width="300"> <img src="Space/spaceship.png" width="300">
+<img src="Space/astronaut_nord.png" alt="Astronaut space wallpaper, Nord color theme" width="300"> <img src="Space/planet_with_sunrise.png" alt="Planet with sunrise space wallpaper" width="300"> <img src="Space/saturn_rings.jpg" alt="Saturn rings space wallpaper" width="300"> <img src="Space/spaceship.png" alt="Spaceship sci-fi wallpaper" width="300">
 
 **[Browse the Space collection](Space/)**
 
@@ -211,7 +211,7 @@ Collection of Shadow of the Colossus wallpapers.
 
 #### Preview
 
-<img src="STOC/Shadow_Of_The_Colossus1.jpg" width="300"> <img src="STOC/Shadow_Of_The_Colossus2.jpg" width="300"> <img src="STOC/Shadow_Of_The_Colossus3.jpg" width="300"> <img src="STOC/Shadow_Of_The_Colossus4.jpeg" width="300">
+<img src="STOC/Shadow_Of_The_Colossus1.jpg" alt="Shadow of the Colossus wallpaper 1" width="300"> <img src="STOC/Shadow_Of_The_Colossus2.jpg" alt="Shadow of the Colossus wallpaper 2" width="300"> <img src="STOC/Shadow_Of_The_Colossus3.jpg" alt="Shadow of the Colossus wallpaper 3" width="300"> <img src="STOC/Shadow_Of_The_Colossus4.jpeg" alt="Shadow of the Colossus wallpaper 4" width="300">
 
 **[Browse the Shadow of the Colossus collection](STOC/)**
 
@@ -223,7 +223,7 @@ Collection of train-themed wallpapers featuring scenic railways, Japanese trains
 
 #### Preview
 
-<img src="Trains/train_sakura.jpg" width="300"> <img src="Trains/train_view.jpg" width="300"> <img src="Trains/train_and_lake.png" width="300"> <img src="Trains/train_stop_underwater.jpg" width="300">
+<img src="Trains/train_sakura.jpg" alt="Train with sakura trees wallpaper" width="300"> <img src="Trains/train_view.jpg" alt="Scenic train view wallpaper" width="300"> <img src="Trains/train_and_lake.png" alt="Train by lake landscape wallpaper" width="300"> <img src="Trains/train_stop_underwater.jpg" alt="Surreal underwater train station wallpaper" width="300">
 
 **[Browse the Trains collection](Trains/)**
 
