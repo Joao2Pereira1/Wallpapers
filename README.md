@@ -1,7 +1,7 @@
 # Wallpapers
 
 <p align="center">
-  <img src="Banner/banner.png" alt="Wallpapers Banner" width="100%" style="border-radius: 8px;">
+  <img src="_Banner/banner.png" alt="Wallpapers Banner" width="100%" style="border-radius: 8px;">
 </p>
 
 A curated collection of free high-quality wallpapers gathered from various sources.
@@ -46,7 +46,7 @@ Collection of anime-themed wallpapers featuring characters and scenes from popul
 
 #### Preview
 
-<img src="Animes/demon_tanjiro2.png" alt="Demon Slayer Tanjiro anime wallpaper" width="300"> <img src="Animes/naruto.png" alt="Naruto anime wallpaper" width="300"> <img src="Animes/one_piece_luffy.jpg" alt="One Piece Luffy anime wallpaper" width="300"> <img src="Animes/kaneki.jpeg" alt="Tokyo Ghoul Kaneki anime wallpaper" width="300">
+<img src="Animes/demon_tanjiro2.png" alt="Demon Slayer Tanjiro anime wallpaper" width="300"> <img title="" src="Animes/naruto_minato.png" alt="Naruto anime wallpaper" width="300"> <img src="Animes/one_piece_luffy.jpg" alt="One Piece Luffy anime wallpaper" width="300"> <img src="Animes/kaneki.jpeg" alt="Tokyo Ghoul Kaneki anime wallpaper" width="300">
 
 **[Browse the Anime collection](Animes/)**
 
