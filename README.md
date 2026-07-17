@@ -60,7 +60,7 @@ Post-apocalyptic landscapes featuring ruined cities, abandoned worlds, and dysto
 
 #### Preview
 
-<img src="Apocalipse/apocalipse_vibe.png" alt="Post-apocalyptic ruined city wallpaper" width="300"> <img src="Apocalipse/apocalipse_vibes.jpg" alt="Dystopian apocalypse landscape wallpaper" width="300"> <img src="Apocalipse/robot_apocalipse.jpg" alt="Robot apocalypse sci-fi wallpaper" width="300"> <img src="Apocalipse/unique_vibes.png" alt="Abandoned world apocalyptic wallpaper" width="300">
+<img src="Apocalipse/apocalipse_vibe.png" alt="Post-apocalyptic ruined city wallpaper" width="300"> <img src="Apocalipse/abandoned_station.png" alt="Abandoned Station landscape wallpaper" width="300"> <img src="Apocalipse/robot_apocalipse.jpg" alt="Robot apocalypse sci-fi wallpaper" width="300"> <img src="Apocalipse/unique_vibes.png" alt="Abandoned world apocalyptic wallpaper" width="300">
 
 **[Browse the Apocalipse collection](Apocalipse/)**
 
@@ -84,7 +84,7 @@ Collection of city-themed wallpapers featuring cyberpunk skylines, modern archit
 
 #### Preview
 
-<img src="Cities/cyber_city.jpg" alt="Cyberpunk city skyline wallpaper, neon lights" width="300"> <img src="Cities/cyberpunk2.jpg" alt="Cyberpunk city wallpaper" width="300"> <img src="Cities/purple_city.png" alt="Purple-toned city skyline wallpaper" width="300"> <img src="Cities/sky_city.jpg" alt="Urban skyline wallpaper, cloudy sky" width="300">
+<img src="Cities/cyber_city.jpg" alt="Cyberpunk city skyline wallpaper, neon lights" width="300"> <img src="Cities/cyberpunk2.jpg" alt="Cyberpunk city wallpaper" width="300"> <img src="Cities/alley.jpg" alt="Alley city wallpaper" width="300"> <img src="Cities/sky_city.jpg" alt="Urban skyline wallpaper, cloudy sky" width="300">
 
 **[Browse the Cities collection](Cities/)**
 
@@ -156,7 +156,7 @@ Stunning mountain landscapes, featuring snowy peaks, rocky cliffs, serene high-a
 
 #### Preview
 
-<img src="Mountains/snow_mountains.jpg" alt="Majestic mountain covered in snow" width="300"> <img src="Mountains/moon_mountain.jpg" alt="Night landscape featuring a mountain under a full moon" width="300"> <img src="Mountains/viking_lake.jpg" alt="Viking standing and looking at a calm mountain lake" width="300"> <img src="Mountains/firewatch_green.jpg" alt="Firewatch inspired green forest and mountain landscape" width="300">
+<img src="Mountains/snow_mountains.jpg" alt="Majestic mountain covered in snow" width="300"> <img src="Mountains/mountains2.jpg" alt="Night landscape featuring a mountain under a full moon" width="300"> <img src="Mountains/viking_lake.jpg" alt="Viking standing and looking at a calm mountain lake" width="300"> <img src="Mountains/firewatch_green.jpg" alt="Firewatch inspired green forest and mountain landscape" width="300">
 
 **[Browse the Mountains collection](Mountains/)**
 
@@ -168,7 +168,7 @@ Collection of Nier Automata wallpapers.
 
 #### Preview
 
-<img src="Nier%20Automata/2B.jpeg" alt="Nier Automata 2B wallpaper" width="300"> <img src="Nier%20Automata/2b_nier_automata.png" alt="Nier Automata 2B character wallpaper" width="300"> <img src="Nier%20Automata/yorha_no2_type_b_nier_automata_thumb.png" alt="Nier Automata YoRHa No.2 Type B wallpaper" width="300"> <img src="Nier%20Automata/nier_automata_minimal.png" alt="Nier Automata minimalist wallpaper" width="300">
+<img src="Nier%20Automata/2B.jpeg" alt="Nier Automata 2B wallpaper" width="300"> <img src="Nier%20Automata/2b_nier_automata.png" alt="Nier Automata 2B character wallpaper" width="300"> <img src="Nier%20Automata/yorha_no2_type_b_nier_automata_thumb.png" alt="Nier Automata YoRHa No.2 Type B wallpaper" width="300"> <img src="Nier%20Automata/nier_automata3.png" alt="Nier Automata environment wallpaper" width="300">
 
 **[Browse the Nier Automata collection](Nier%20Automata/)**
 
@@ -180,7 +180,7 @@ Pixel art and stylized digital wallpapers featuring cities, landscapes, neon env
 
 #### Preview
 
-<img src="Pixel%20Arts/blue_city.jpg" alt="Blue pixel art city wallpaper" width="300"> <img src="Pixel%20Arts/purple_sky.png" alt="Purple pixel art sky wallpaper" width="300"> <img src="Pixel%20Arts/tokyo_purple.jpg" alt="Tokyo purple pixel art wallpaper" width="300"> <img src="Pixel%20Arts/fantasy_style.jpg" alt="Fantasy-style pixel art wallpaper" width="300">
+<img src="Pixel%20Arts/blue_city.jpg" alt="Blue pixel art city wallpaper" width="300"> <img src="Pixel%20Arts/purple_sky.png" alt="Purple pixel art sky wallpaper" width="300"> <img src="Pixel%20Arts/pixel_green_sea.png" alt="Sea pixel art wallpaper" width="300"> <img src="Pixel%20Arts/fantasy_style.jpg" alt="Fantasy-style pixel art wallpaper" width="300">
 
 **[Browse the Pixel Arts collection](Pixel%20Arts/)**
 
@@ -216,7 +216,7 @@ Beautiful oceanic wallpapers featuring deep blue waters, waves, tropical beaches
 
 #### Preview
 
-<img src="Sea/sea.png" alt="Calm open sea vector style illustration wallpaper" width="300"> <img src="Sea/sea.jpg" alt="Deep blue ocean waves wallpaper" width="300"> <img src="Sea/sunset.png" alt="Beautiful sea sunset with warm colors wallpaper" width="300"> <img src="Sea/ocean_with_cloud.png" alt="Scenic ocean landscape under a dramatic cloudy sky" width="300">
+<img src="Sea/sea.png" alt="Calm open sea vector style illustration wallpaper" width="300"> <img src="Sea/sea.jpg" alt="Deep blue ocean waves wallpaper" width="300"> <img src="Sea/sunset.png" alt="Beautiful sea sunset with warm colors wallpaper" width="300"> <img src="Sea/sky_reflection.jpg" alt="Beautiful sky reflection landscape" width="300">
 
 **[Browse the Sea collection](Sea/)**
 
