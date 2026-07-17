@@ -87,6 +87,7 @@ This document lists the wallpapers in this repository that are AI-generated or b
 * [`mountain_pink.webp`](Mountains/mountain_pink.webp)
 * [`firewatch_green.jpg`](Mountains/firewatch_green.jpg)
 * [`viking_lake.jpg`](Mountains/viking_lake.jpg)
+* [`snow_mountains.jpg`](Mountains/snow_mountains.jpg)
 
 ---
 
@@ -102,15 +103,11 @@ This document lists the wallpapers in this repository that are AI-generated or b
 
 ---
 
-## Pixel Arts
-
-* [`boat_purple_river.png`](Pixel%20Arts/boat_purple_river.png)
-
----
-
 ## Relaxing
 
 * [`girl_looking_sky.jpg`](Relaxing/girl_looking_sky.jpg)
+* [`cat_window.png`](Relaxing/cat_window.png)
+* [`gril_sunflowers.png`](Relaxing/gril_sunflowers.png)
 
 ---
 
