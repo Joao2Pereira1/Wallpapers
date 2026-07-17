@@ -1,7 +1,7 @@
 # Wallpapers
 
 <p align="center">
-  <img src="_Banner/banner.png" alt="Wallpapers Banner" width="100%" style="border-radius: 8px;">
+  <img src="assets/banner.png" alt="Wallpapers Banner" width="100%" style="border-radius: 8px;">
 </p>
 
 A curated collection of free high-quality wallpapers gathered from various sources.
@@ -11,6 +11,8 @@ Featuring anime, landscapes, cyberpunk, pixel art and more. This collection is r
 - 📁 Each folder has its own `README.md` with a preview of all the wallpapers.
 - 📦 Want the whole collection at once? Check out the [Releases](../../releases) section.
 - 🤝🏻 Want to contribute? Check out [CONTRIBUTING.md](CONTRIBUTING.md).
+- ©️ CREDITS [CREDITS.md](CREDITS.md).
+
 
 ## Index
 
@@ -288,6 +290,8 @@ Collection of the wallpapers that i love more.
 * https://alphacoders.com
 * https://www.artstation.com/
 
+Detailed credits to the artists can be found in [CREDITS.md](CREDITS.md).
+
 ---
 
 ## AI Generated Wallpapers
@@ -296,7 +300,7 @@ Some wallpapers in this collection were generated using AI.
 
 See the full list here:
 
-- ?“„ [AI_WALLPAPERS.md](AI_WALLPAPERS.md)
+- 🤖 [AI_WALLPAPERS.md](AI_WALLPAPERS.md)
 
 ---
 
