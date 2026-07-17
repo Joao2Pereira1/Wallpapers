@@ -1,4 +1,4 @@
-# Banner Wallpapers
+# assets Wallpapers
 
 ## Preview
 
