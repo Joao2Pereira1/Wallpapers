@@ -276,7 +276,7 @@ Collection of the wallpapers that i love more.
 
 #### Preview
 
-<img src="Animes/naruto_madara.jpg" width="300"> <img src="Animes/evangelion_asuka2.png" width="300"> <img src="Desktop/arch_blue.jpeg" width="300"> <img src="Desktop/arch_purple.png" width="300"> <img src="Elden%20Ring/fire_soldier.png" width="300"> <img src="Cities/crane.png" width="300"> <img src="Fantasy/castle.jpg" width="300"> <img src="Landscapes/ligh_pole.jpg" width="300"> <img src="Nier%20Automata/2b_nier_automata.png" width="300"> <img src="Japan/sekiro.jpg" width="300"> <img title="" src="Landscapes/cowboy.png" alt="" width="300"> <img src="Relaxing/girl_painting.png" width="300"> <img src="Relaxing/girl_chilling.jpg" width="300"> <img src="Relaxing/girl_reflecting.jpg" width="300"> <img src="Landscapes/ocean_with_cloud.png" width="300"> <img src="Samurai/samurai_wallpaper.jpeg" width="300">
+<img src="Animes/naruto_madara.jpg" width="300"> <img src="Animes/evangelion_asuka2.png" width="300"> <img src="Desktop/arch_blue.jpeg" width="300"> <img src="Desktop/arch_purple.png" width="300"> <img src="Elden%20Ring/fire_soldier.png" width="300"> <img src="Cities/crane.png" width="300"> <img src="Fantasy/castle.jpg" width="300"> <img src="Landscapes/ligh_pole.jpg" width="300"> <img src="Nier%20Automata/2b_nier_automata.png" width="300"> <img src="Japan/sekiro.jpg" width="300"> <img title="" src="Landscapes/cowboy.png" alt="" width="300"> <img src="Relaxing/girl_painting.png" width="300"> <img src="Relaxing/girl_chilling_ruins.jpg" width="300"> <img src="Relaxing/girl_reflecting.jpg" width="300"> <img src="Sea/ocean_with_cloud.png" width="300"> <img src="Samurai/samurai_wallpaper.jpeg" width="300">
 
 ---
 
