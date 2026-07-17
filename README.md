@@ -11,7 +11,7 @@ Featuring anime, landscapes, cyberpunk, pixel art and more. This collection is r
 - 📁 Each folder has its own `README.md` with a preview of all the wallpapers.
 - 📦 Want the whole collection at once? Check out the [Releases](../../releases) section.
 - 🤝🏻 Want to contribute? Check out [CONTRIBUTING.md](CONTRIBUTING.md).
-- ©️ CREDITS [CREDITS.md](CREDITS.md).
+- ©️ Support the artists [CREDITS.md](CREDITS.md).
 
 
 ## Index
@@ -48,7 +48,7 @@ Collection of anime-themed wallpapers featuring characters and scenes from popul
 
 #### Preview
 
-<img src="Animes/demon_tanjiro2.png" alt="Demon Slayer Tanjiro anime wallpaper" width="300"> <img title="" src="Animes/naruto_minato.png" alt="Naruto anime wallpaper" width="300"> <img src="Animes/one_piece_luffy.jpg" alt="One Piece Luffy anime wallpaper" width="300"> <img src="Animes/kaneki.jpeg" alt="Tokyo Ghoul Kaneki anime wallpaper" width="300">
+<img src="Animes/solo_leveling.png" alt="Solo Leveling Jin anime wallpaper" width="300"> <img title="" src="Animes/naruto_nagato.jpg" alt="Naruto nagato anime wallpaper" width="300"> <img src="Animes/one_piece_luffy.jpg" alt="One Piece Luffy anime wallpaper" width="300"> <img src="Animes/evangelion_asuka2.png" alt="Evangelion Asuka Langley Soryu anime wallpaper" width="300">
 
 **[Browse the Anime collection](Animes/)**
 
@@ -72,7 +72,7 @@ A collection of automotive wallpapers featuring modern, retro, and stylized vehi
 
 #### Preview
 
-<img src="Cars/car1.jpg" alt="Modern sports car wallpaper" width="300"> <img src="Cars/car3.jpg" alt="Retro car wallpaper" width="300"> <img src="Cars/pastel_car.png" alt="Pastel-colored stylized car wallpaper" width="300"> <img src="Cars/car2.jpg" alt="Automotive wallpaper, vehicle close-up" width="300">
+<img src="Cars/van.jpg" alt="Van with red clouds wallpaper" width="300"> <img src="Cars/car3.jpg" alt="Retro car wallpaper" width="300"> <img src="Cars/pastel_car.png" alt="Pastel-colored stylized car wallpaper" width="300"> <img src="Cars/retro_makima.jpeg" alt="Makima sitted in car wallpaper, retro style" width="300">
 
 **[Browse the Cars collection](Cars/)**
 
@@ -84,7 +84,7 @@ Collection of city-themed wallpapers featuring cyberpunk skylines, modern archit
 
 #### Preview
 
-<img src="Cities/cyber_city.jpg" alt="Cyberpunk city skyline wallpaper, neon lights" width="300"> <img src="Cities/neon_city.jpg" alt="Neon-lit city wallpaper at night" width="300"> <img src="Cities/purple_city.png" alt="Purple-toned city skyline wallpaper" width="300"> <img src="Cities/sky_city.jpg" alt="Urban skyline wallpaper, cloudy sky" width="300">
+<img src="Cities/cyber_city.jpg" alt="Cyberpunk city skyline wallpaper, neon lights" width="300"> <img src="Cities/cyberpunk2.jpg" alt="Cyberpunk city wallpaper" width="300"> <img src="Cities/purple_city.png" alt="Purple-toned city skyline wallpaper" width="300"> <img src="Cities/sky_city.jpg" alt="Urban skyline wallpaper, cloudy sky" width="300">
 
 **[Browse the Cities collection](Cities/)**
 
@@ -108,7 +108,7 @@ Fantasy-themed wallpapers featuring warriors, mages, dragons, landscapes, and da
 
 #### Preview
 
-<img src="Fantasy/blue_tree_mage.jpg" alt="Fantasy mage under blue tree wallpaper" width="300"> <img src="Fantasy/mountain_spell.png" alt="Fantasy mountain magic spell wallpaper" width="300"> <img src="Fantasy/gunner.png" alt="Fantasy gunner character wallpaper" width="300"> <img src="Fantasy/soldier_sunset.jpg" alt="Fantasy soldier sunset wallpaper" width="300">
+<img src="Fantasy/blue_tree_mage.jpg" alt="Fantasy mage under blue tree wallpaper" width="300"> <img src="Fantasy/incredible_castle.jpg" alt="Amazing detailed castle wallpaper" width="300"> <img src="Fantasy/cthulhu.jpg" alt="Cthulhu.jpg mythologic creature wallpaper" width="300"> <img src="Fantasy/soldier_sunset.jpg" alt="Fantasy soldier sunset wallpaper" width="300">
 
 **[Browse the Fantasy collection](Fantasy/)**
 
@@ -132,7 +132,7 @@ A large collection of landscape wallpapers including natural environments, fanta
 
 #### Preview
 
-<img src="Landscapes/beautiful_sky.jpg" alt="Beautiful sky landscape wallpaper" width="300"> <img src="Landscapes/cowboy.png" alt="Cowboy landscape wallpaper" width="300"> <img src="Landscapes/hoops.jpg" alt="Atmospheric landscape wallpaper" width="300"> <img src="Landscapes/ligh_pole.jpg" alt="Light pole night landscape wallpaper" width="300">
+<img src="Landscapes/beautiful_sky.jpg" alt="Beautiful sky landscape wallpaper" width="300"> <img src="Landscapes/cowboy.png" alt="Cowboy landscape wallpaper" width="300"> <img src="Landscapes/windmill.jpg" alt="Beautiful Windmill wallpaper" width="300"> <img src="Landscapes/ligh_pole.jpg" alt="Light pole night landscape wallpaper" width="300">
 
 **[Browse the Landscapes collection](Landscapes/)**
 
@@ -192,7 +192,7 @@ Relaxing wallpapers featuring peaceful landscapes, sunsets, Firewatch-inspired s
 
 #### Preview
 
-<img src="Relaxing/cat_girl_window.jpg" alt="Relaxing anime girl by window wallpaper" width="300"> <img src="Relaxing/girl_reflecting.jpg" alt="Peaceful girl reflecting wallpaper" width="300"> <img src="Relaxing/girl_chilling_ruins.jpg" alt="Calm chill anime girl wallpaper" width="300"> <img src="Relaxing/girl_looking_sky.jpg" alt="Girl looking at sky relaxing wallpaper" width="300">
+<img src="Relaxing/cat_girl_window.jpg" alt="Relaxing anime girl by window wallpaper" width="300"> <img src="Relaxing/girl_reflecting.jpg" alt="Peaceful girl reflecting wallpaper" width="300"> <img src="Relaxing/girl_chilling_ruins.jpg" alt="Calm chill anime girl wallpaper" width="300"> <img src="Relaxing/fireworks.jpg" alt="Girl looking at fireworks relaxing wallpaper" width="300">
 
 **[Browse the Relaxing collection](Relaxing/)**
 
@@ -204,7 +204,7 @@ Samurai-themed wallpapers including cyberpunk interpretations, traditional Japan
 
 #### Preview
 
-<img src="Samurai/got_red.jpg" alt="Samurai red-toned cinematic wallpaper" width="300"> <img src="Samurai/japan3.jpg" alt="Traditional Japanese samurai wallpaper" width="300"> <img src="Samurai/samurai.jpg" alt="Samurai warrior wallpaper" width="300"> <img src="Samurai/samurai_wallpaper.jpeg" alt="Cyberpunk samurai wallpaper" width="300">
+<img src="Samurai/got_red.jpg" alt="Samurai red-toned cinematic wallpaper" width="300"> <img src="Samurai/japan3.jpg" alt="Traditional Japanese samurai wallpaper" width="300"> <img src="Samurai/red_samurai.jpg" alt="Samurai warrior wallpaper" width="300"> <img src="Samurai/blue_samurai.jpg" alt="Samurai battle wallpaper" width="300">
 
 **[Browse the Samurai collection](Samurai/)**
 
