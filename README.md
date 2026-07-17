@@ -126,6 +126,18 @@ Collection of wallpapers inspired by Japan, featuring sakura trees, temples, sno
 
 ---
 
+## Landscapes
+
+A large collection of landscape wallpapers including natural environments, fantasy scenes, cyberpunk cities, skies, and atmospheric compositions.
+
+#### Preview
+
+<img src="Landscapes/beautiful_sky.jpg" alt="Beautiful sky landscape wallpaper" width="300"> <img src="Landscapes/cowboy.png" alt="Cowboy landscape wallpaper" width="300"> <img src="Landscapes/hoops.jpg" alt="Atmospheric landscape wallpaper" width="300"> <img src="Landscapes/ligh_pole.jpg" alt="Light pole night landscape wallpaper" width="300">
+
+**[Browse the Landscapes collection](Landscapes/)**
+
+---
+
 ## Logos
 
 Wallpapers featuring clean, minimalist, and stylized logos from operating systems, that includes arch-linux, ubuntu, windows and others.
@@ -180,7 +192,7 @@ Relaxing wallpapers featuring peaceful landscapes, sunsets, Firewatch-inspired s
 
 #### Preview
 
-<img src="Relaxing/cat_girl_window.jpg" alt="Relaxing anime girl by window wallpaper" width="300"> <img src="Relaxing/girl_reflecting.jpg" alt="Peaceful girl reflecting wallpaper" width="300"> <img src="Relaxing/girl_chilling.jpg" alt="Calm chill anime girl wallpaper" width="300"> <img src="Relaxing/girl_looking_sky.jpg" alt="Girl looking at sky relaxing wallpaper" width="300">
+<img src="Relaxing/cat_girl_window.jpg" alt="Relaxing anime girl by window wallpaper" width="300"> <img src="Relaxing/girl_reflecting.jpg" alt="Peaceful girl reflecting wallpaper" width="300"> <img src="Relaxing/girl_chilling_ruins.jpg" alt="Calm chill anime girl wallpaper" width="300"> <img src="Relaxing/girl_looking_sky.jpg" alt="Girl looking at sky relaxing wallpaper" width="300">
 
 **[Browse the Relaxing collection](Relaxing/)**
 
@@ -219,18 +231,6 @@ Abstract textures, material designs, digital patterns, and clean geometric surfa
 <img src="Surfaces/wave.png" alt="Abstract fluid wave texture wallpaper" width="300"> <img src="Surfaces/blue_wave.png" alt="Smooth abstract blue wave surface wallpaper" width="300"> <img src="Surfaces/stone_fragments.webp" alt="Close-up of modern abstract stone fragments texture" width="300"> <img src="Surfaces/ink_wave.png" alt="Abstract dark ink wave texture wallpaper" width="300">
 
 **[Browse the Surfaces collection](Surfaces/)**
-
----
-
-## Landscapes
-
-A large collection of landscape wallpapers including natural environments, fantasy scenes, cyberpunk cities, skies, and atmospheric compositions.
-
-#### Preview
-
-<img src="Landscapes/beautiful_sky.jpg" alt="Beautiful sky landscape wallpaper" width="300"> <img src="Landscapes/cowboy.png" alt="Cowboy landscape wallpaper" width="300"> <img src="Landscapes/hoops.jpg" alt="Atmospheric landscape wallpaper" width="300"> <img src="Landscapes/ligh_pole.jpg" alt="Light pole night landscape wallpaper" width="300">
-
-**[Browse the Landscapes collection](Landscapes/)**
 
 ---
 
