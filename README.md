@@ -9,10 +9,10 @@ A curated collection of free high-quality wallpapers gathered from various sourc
 Featuring anime, landscapes, cyberpunk, pixel art and more. This collection is regularly updated with new wallpapers. If you enjoy it, consider giving the repository a ­⭐ to stay updated and support the project.
 
 - 📁 Each folder has its own `README.md` with a preview of all the wallpapers.
+- 🤖 Previews are split into two sections: AI Generated and Original, making it easy to identify AI art.
 - 📦 Want the whole collection at once? Check out the [Releases](../../releases) section.
 - 🤝🏻 Want to contribute? Check out [CONTRIBUTING.md](CONTRIBUTING.md).
 - ©️ Support the artists [CREDITS.md](CREDITS.md).
-
 
 ## Index
 
