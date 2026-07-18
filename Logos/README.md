@@ -1,31 +1,8 @@
 # Logos Wallpapers
 
-## Preview
+## 📷 Original Wallpapers
 
-<img src="zorin_catpuccin.png" width="300">
-<img src="arch_minimal.png" width="300">
-<img src="pink_fedora_hat.png" width="300">
-<img src="arch_blue.jpeg" width="300">
-<img src="arch_orange.jpeg" width="300">
-<img src="debian.png" width="300">
-<img src="fedora.png" width="300">
-<img src="pink_mouse.png" width="300">
-<img src="arch_purple.png" width="300">
-<img src="arch_dark_blue.png" width="300">
-<img src="grey_surface.png" width="300">
-<img src="ubuntu1.png" width="300">
-<img src="kali.png" width="300">
-<img src="nixos1.png" width="300">
-<img src="ubuntu2.png" width="300">
-<img src="microsoft1.png" width="300">
-<img src="windows_pink.png" width="300">
-<img src="ubuntu3.png" width="300">
-<img src="windows11_logo.png" width="300">
-<img src="zorin.png" width="300">
-<img src="ubuntu.png" width="300">
-<img src="microsoft.png" width="300">
-<img src="windows_joke.png" width="300">
-<img src="nixos2.png" width="300">
+<img src="windows11_logo.png" alt="windows11_logo" width="300"> <img src="ubuntu.png" alt="ubuntu" width="300"> <img src="microsoft.png" alt="microsoft" width="300"> <img src="kali.png" alt="kali" width="300"> <img src="microsoft1.png" alt="microsoft1" width="300"> <img src="arch_orange.jpeg" alt="arch_orange" width="300"> <img src="pink_mouse.png" alt="pink_mouse" width="300"> <img src="windows_joke.png" alt="windows_joke" width="300"> <img src="arch_blue.jpeg" alt="arch_blue" width="300"> <img src="arch_dark_blue.png" alt="arch_dark_blue" width="300"> <img src="ubuntu1.png" alt="ubuntu1" width="300"> <img src="nixos1.png" alt="nixos1" width="300"> <img src="arch_minimal.png" alt="arch_minimal" width="300"> <img src="ubuntu3.png" alt="ubuntu3" width="300"> <img src="grey_surface.png" alt="grey_surface" width="300"> <img src="fedora.png" alt="fedora" width="300"> <img src="zorin.png" alt="zorin" width="300"> <img src="pink_fedora_hat.png" alt="pink_fedora_hat" width="300"> <img src="arch_purple.png" alt="arch_purple" width="300"> <img src="nixos2.png" alt="nixos2" width="300"> <img src="ubuntu2.png" alt="ubuntu2" width="300"> <img src="zorin_catpuccin.png" alt="zorin_catpuccin" width="300"> <img src="windows_pink.png" alt="windows_pink" width="300"> <img src="debian.png" alt="debian" width="300"> 
 
 ---
 

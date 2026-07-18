@@ -1,8 +1,8 @@
 # assets Wallpapers
 
-## Preview
+## 📷 Original Wallpapers
 
-<img src="banner.png" width="300">
+<img src="banner.png" alt="banner" width="300"> 
 
 ---
 
