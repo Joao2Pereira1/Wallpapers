@@ -72,7 +72,7 @@ A collection of automotive wallpapers featuring modern, retro, and stylized vehi
 
 #### Preview
 
-<img src="Cars/van.jpg" alt="Van with red clouds wallpaper" width="300"> <img src="Cars/car3_ai.jpg" alt="Retro car wallpaper" width="300"> <img src="Cars/pastel_car_ai.png" alt="Pastel-colored stylized car wallpaper" width="300"> <img src="Cars/retro_makima.jpeg_ai" alt="Makima sitted in car wallpaper, retro style" width="300">
+<img src="Cars/van.jpg" alt="Van with red clouds wallpaper" width="300"> <img src="Cars/car3_ai.jpg" alt="Retro car wallpaper" width="300"> <img src="Cars/pastel_car_ai.png" alt="Pastel-colored stylized car wallpaper" width="300"> <img src="Cars/retro_makima_ai.jpeg" alt="Makima sitted in car wallpaper, retro style" width="300">
 
 **[Browse the Cars collection](Cars/)**
 
@@ -84,7 +84,7 @@ Collection of city-themed wallpapers featuring cyberpunk skylines, modern archit
 
 #### Preview
 
-<img src="Cities/cyber_city.jpg_ai" alt="Cyberpunk city skyline wallpaper, neon lights" width="300"> <img src="Cities/cyberpunk2.jpg" alt="Cyberpunk city wallpaper" width="300"> <img src="Cities/alley.jpg" alt="Alley city wallpaper" width="300"> <img src="Cities/sky_city.jpg" alt="Urban skyline wallpaper, cloudy sky" width="300">
+<img src="Cities/cyber_city_ai.jpg" alt="Cyberpunk city skyline wallpaper, neon lights" width="300"> <img src="Cities/cyberpunk2.jpg" alt="Cyberpunk city wallpaper" width="300"> <img src="Cities/alley.jpg" alt="Alley city wallpaper" width="300"> <img src="Cities/sky_city.jpg" alt="Urban skyline wallpaper, cloudy sky" width="300">
 
 **[Browse the Cities collection](Cities/)**
 
@@ -216,7 +216,7 @@ Beautiful oceanic wallpapers featuring deep blue waters, waves, tropical beaches
 
 #### Preview
 
-<img src="Sea/sea.png_ai" alt="Calm open sea vector style illustration wallpaper" width="300"> <img src="Sea/sea_ai.jpg" alt="Deep blue ocean waves wallpaper" width="300"> <img src="Sea/sunset.png" alt="Beautiful sea sunset with warm colors wallpaper" width="300"> <img src="Sea/sky_reflection.jpg" alt="Beautiful sky reflection landscape" width="300">
+<img src="Sea/sea_ai.png" alt="Calm open sea vector style illustration wallpaper" width="300"> <img src="Sea/sea_ai.jpg" alt="Deep blue ocean waves wallpaper" width="300"> <img src="Sea/sunset.png" alt="Beautiful sea sunset with warm colors wallpaper" width="300"> <img src="Sea/sky_reflection.jpg" alt="Beautiful sky reflection landscape" width="300">
 
 **[Browse the Sea collection](Sea/)**
 
