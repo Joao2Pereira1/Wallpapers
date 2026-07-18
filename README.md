@@ -72,7 +72,7 @@ A collection of automotive wallpapers featuring modern, retro, and stylized vehi
 
 #### Preview
 
-<img src="Cars/van.jpg" alt="Van with red clouds wallpaper" width="300"> <img src="Cars/car3.jpg" alt="Retro car wallpaper" width="300"> <img src="Cars/pastel_car.png" alt="Pastel-colored stylized car wallpaper" width="300"> <img src="Cars/retro_makima.jpeg" alt="Makima sitted in car wallpaper, retro style" width="300">
+<img src="Cars/van.jpg" alt="Van with red clouds wallpaper" width="300"> <img src="Cars/car3_ai.jpg" alt="Retro car wallpaper" width="300"> <img src="Cars/pastel_car_ai.png" alt="Pastel-colored stylized car wallpaper" width="300"> <img src="Cars/retro_makima.jpeg_ai" alt="Makima sitted in car wallpaper, retro style" width="300">
 
 **[Browse the Cars collection](Cars/)**
 
@@ -84,7 +84,7 @@ Collection of city-themed wallpapers featuring cyberpunk skylines, modern archit
 
 #### Preview
 
-<img src="Cities/cyber_city.jpg" alt="Cyberpunk city skyline wallpaper, neon lights" width="300"> <img src="Cities/cyberpunk2.jpg" alt="Cyberpunk city wallpaper" width="300"> <img src="Cities/alley.jpg" alt="Alley city wallpaper" width="300"> <img src="Cities/sky_city.jpg" alt="Urban skyline wallpaper, cloudy sky" width="300">
+<img src="Cities/cyber_city.jpg_ai" alt="Cyberpunk city skyline wallpaper, neon lights" width="300"> <img src="Cities/cyberpunk2.jpg" alt="Cyberpunk city wallpaper" width="300"> <img src="Cities/alley.jpg" alt="Alley city wallpaper" width="300"> <img src="Cities/sky_city.jpg" alt="Urban skyline wallpaper, cloudy sky" width="300">
 
 **[Browse the Cities collection](Cities/)**
 
@@ -96,7 +96,7 @@ Wallpapers inspired by Elden Ring, featuring iconic characters, bosses, environm
 
 #### Preview
 
-<img src="Elden%20Ring/malenia.png" alt="Elden Ring Malenia boss wallpaper" width="300"> <img src="Elden%20Ring/ranni.jpg" alt="Elden Ring Ranni character wallpaper" width="300"> <img src="Elden%20Ring/wizard.png" alt="Elden Ring wizard character wallpaper" width="300"> <img src="Elden%20Ring/serpent.jpg" alt="Elden Ring Rikard boss wallpaper" width="300">
+<img src="Elden%20Ring/malenia.png" alt="Elden Ring Malenia boss wallpaper" width="300"> <img src="Elden%20Ring/ranni_ai.jpg" alt="Elden Ring Ranni character wallpaper" width="300"> <img src="Elden%20Ring/wizard.png" alt="Elden Ring wizard character wallpaper" width="300"> <img src="Elden%20Ring/serpent.jpg" alt="Elden Ring Rikard boss wallpaper" width="300">
 
 **[Browse the Elden Ring collection](Elden%20Ring/)**
 
@@ -120,7 +120,7 @@ Collection of wallpapers inspired by Japan, featuring sakura trees, temples, sno
 
 #### Preview
 
-<img src="Japan/japan.jpg" alt="Japan traditional landscape wallpaper" width="300"> <img src="Japan/japan_temples_sakuras.jpg" alt="Japan temple with sakura trees wallpaper" width="300"> <img src="Japan/japan_weird_vibes.jpg" alt="Japan atmospheric surreal wallpaper" width="300"> <img src="Japan/sekiro.jpg" alt="Sekiro Japan wallpaper" width="300">
+<img src="Japan/japan_ai.jpg" alt="Japan traditional landscape wallpaper" width="300"> <img src="Japan/japan_temples_sakuras_ai.jpg" alt="Japan temple with sakura trees wallpaper" width="300"> <img src="Japan/japan_weird_vibes.jpg" alt="Japan atmospheric surreal wallpaper" width="300"> <img src="Japan/sekiro.jpg" alt="Sekiro Japan wallpaper" width="300">
 
 **[Browse the Japan collection](Japan/)**
 
@@ -132,7 +132,7 @@ A large collection of landscape wallpapers including natural environments, fanta
 
 #### Preview
 
-<img src="Landscapes/beautiful_sky.jpg" alt="Beautiful sky landscape wallpaper" width="300"> <img src="Landscapes/cowboy.png" alt="Cowboy landscape wallpaper" width="300"> <img src="Landscapes/windmill.jpg" alt="Beautiful Windmill wallpaper" width="300"> <img src="Landscapes/ligh_pole.jpg" alt="Light pole night landscape wallpaper" width="300">
+<img src="Landscapes/beautiful_sky_ai.jpg" alt="Beautiful sky landscape wallpaper" width="300"> <img src="Landscapes/cowboy.png" alt="Cowboy landscape wallpaper" width="300"> <img src="Landscapes/windmill.jpg" alt="Beautiful Windmill wallpaper" width="300"> <img src="Landscapes/ligh_pole.jpg" alt="Light pole night landscape wallpaper" width="300">
 
 **[Browse the Landscapes collection](Landscapes/)**
 
@@ -156,7 +156,7 @@ Stunning mountain landscapes, featuring snowy peaks, rocky cliffs, serene high-a
 
 #### Preview
 
-<img src="Mountains/snow_mountains.jpg" alt="Majestic mountain covered in snow" width="300"> <img src="Mountains/mountains2.jpg" alt="Night landscape featuring a mountain under a full moon" width="300"> <img src="Mountains/viking_lake.jpg" alt="Viking standing and looking at a calm mountain lake" width="300"> <img src="Mountains/firewatch_green.jpg" alt="Firewatch inspired green forest and mountain landscape" width="300">
+<img src="Mountains/snow_mountains_ai.jpg" alt="Majestic mountain covered in snow" width="300"> <img src="Mountains/mountains2.jpg" alt="Night landscape featuring a mountain under a full moon" width="300"> <img src="Mountains/viking_lake_ai.jpg" alt="Viking standing and looking at a calm mountain lake" width="300"> <img src="Mountains/firewatch_green_ai.jpg" alt="Firewatch inspired green forest and mountain landscape" width="300">
 
 **[Browse the Mountains collection](Mountains/)**
 
@@ -168,7 +168,7 @@ Collection of Nier Automata wallpapers.
 
 #### Preview
 
-<img src="Nier%20Automata/2B.jpeg" alt="Nier Automata 2B wallpaper" width="300"> <img src="Nier%20Automata/2b_nier_automata.png" alt="Nier Automata 2B character wallpaper" width="300"> <img src="Nier%20Automata/yorha_no2_type_b_nier_automata_thumb.png" alt="Nier Automata YoRHa No.2 Type B wallpaper" width="300"> <img src="Nier%20Automata/nier_automata3.png" alt="Nier Automata environment wallpaper" width="300">
+<img src="Nier%20Automata/2B_ai.jpeg" alt="Nier Automata 2B wallpaper" width="300"> <img src="Nier%20Automata/2b_nier_automata_ai.png" alt="Nier Automata 2B character wallpaper" width="300"> <img src="Nier%20Automata/yorha_no2_type_b_nier_automata_thumb_ai.png" alt="Nier Automata YoRHa No.2 Type B wallpaper" width="300"> <img src="Nier%20Automata/nier_automata3.png" alt="Nier Automata environment wallpaper" width="300">
 
 **[Browse the Nier Automata collection](Nier%20Automata/)**
 
@@ -204,7 +204,7 @@ Samurai-themed wallpapers including cyberpunk interpretations, traditional Japan
 
 #### Preview
 
-<img src="Samurai/got_red.jpg" alt="Samurai red-toned cinematic wallpaper" width="300"> <img src="Samurai/japan3.jpg" alt="Traditional Japanese samurai wallpaper" width="300"> <img src="Samurai/red_samurai.jpg" alt="Samurai warrior wallpaper" width="300"> <img src="Samurai/blue_samurai.jpg" alt="Samurai battle wallpaper" width="300">
+<img src="Samurai/got_red.jpg" alt="Samurai red-toned cinematic wallpaper" width="300"> <img src="Samurai/japan3_ai.jpg" alt="Traditional Japanese samurai wallpaper" width="300"> <img src="Samurai/red_samurai.jpg" alt="Samurai warrior wallpaper" width="300"> <img src="Samurai/blue_samurai.jpg" alt="Samurai battle wallpaper" width="300">
 
 **[Browse the Samurai collection](Samurai/)**
 
@@ -216,7 +216,7 @@ Beautiful oceanic wallpapers featuring deep blue waters, waves, tropical beaches
 
 #### Preview
 
-<img src="Sea/sea.png" alt="Calm open sea vector style illustration wallpaper" width="300"> <img src="Sea/sea.jpg" alt="Deep blue ocean waves wallpaper" width="300"> <img src="Sea/sunset.png" alt="Beautiful sea sunset with warm colors wallpaper" width="300"> <img src="Sea/sky_reflection.jpg" alt="Beautiful sky reflection landscape" width="300">
+<img src="Sea/sea.png_ai" alt="Calm open sea vector style illustration wallpaper" width="300"> <img src="Sea/sea_ai.jpg" alt="Deep blue ocean waves wallpaper" width="300"> <img src="Sea/sunset.png" alt="Beautiful sea sunset with warm colors wallpaper" width="300"> <img src="Sea/sky_reflection.jpg" alt="Beautiful sky reflection landscape" width="300">
 
 **[Browse the Sea collection](Sea/)**
 
@@ -276,7 +276,7 @@ Collection of the wallpapers that i love more.
 
 #### Preview
 
-<img src="Animes/naruto_madara.jpg" width="300"> <img src="Animes/evangelion_asuka2.png" width="300"> <img src="Desktop/arch_blue.jpeg" width="300"> <img src="Desktop/arch_purple.png" width="300"> <img src="Elden%20Ring/fire_soldier.png" width="300"> <img src="Cities/crane.png" width="300"> <img src="Fantasy/castle.jpg" width="300"> <img src="Landscapes/ligh_pole.jpg" width="300"> <img src="Nier%20Automata/2b_nier_automata.png" width="300"> <img src="Japan/sekiro.jpg" width="300"> <img title="" src="Landscapes/cowboy.png" alt="" width="300"> <img src="Relaxing/girl_painting.png" width="300"> <img src="Relaxing/girl_chilling_ruins.jpg" width="300"> <img src="Relaxing/girl_reflecting.jpg" width="300"> <img src="Sea/ocean_with_cloud.png" width="300"> <img src="Samurai/samurai_wallpaper.jpeg" width="300">
+<img src="Animes/naruto_madara.jpg" width="300"> <img src="Animes/evangelion_asuka2.png" width="300"> <img src="Logos/arch_blue.jpeg" width="300"> <img src="Logos/arch_purple.png" width="300"> <img src="Elden%20Ring/fire_soldier.png" width="300"> <img src="Cities/crane.png" width="300"> <img src="Fantasy/castle.jpg" width="300"> <img src="Landscapes/ligh_pole.jpg" width="300"> <img src="Nier%20Automata/2b_nier_automata_ai.png" width="300"> <img src="Japan/sekiro.jpg" width="300"> <img title="" src="Landscapes/cowboy.png" alt="" width="300"> <img src="Relaxing/girl_painting.png" width="300"> <img src="Relaxing/girl_chilling_ruins.jpg" width="300"> <img src="Relaxing/girl_reflecting.jpg" width="300"> <img src="Sea/ocean_with_cloud.png" width="300"> <img src="Samurai/samurai_wallpaper_ai.jpeg" width="300">
 
 ---
 
