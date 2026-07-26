@@ -287,6 +287,8 @@
 - [`spaceship3.png`](Space/spaceship3.png) — **Prestige Wallpaper**
 - [`stars_pink.jpg`](Space/stars_pink.jpg) — **Jef Wu**
 - [`ufo.jpg`](Space/ufo.jpg) — **Makoto Shinkai** (Estúdio CoMix Wave Films)
+- [`space_girl2.webp`](Space/space_girl2.webp) - **Kazari Tayu**
+- [`plane2.jpg`](Space/plane2.jpg) - **@Henryc30190152**
 
 ---
 
