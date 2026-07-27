@@ -4,6 +4,13 @@
   <img src="assets/banner.png" alt="Wallpapers Banner" width="100%" style="border-radius: 8px;">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Wallpapers-+300-8A2BE2?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Collection-Constantly%20Updated-brightgreen?style=for-the-badge&logo=github&logoColor=white)" />
+  <img src="https://img.shields.io/github/stars/Joao2Pereira1/Wallpapers?style=for-the-badge&logo=github&color=gold" />
+  <img src="https://img.shields.io/github/repo-size/Joao2Pereira1/Wallpapers?style=for-the-badge&color=ff69b4&logo=disk&logoColor=white" />
+</p>
+
 A curated collection of free high-quality wallpapers gathered from various sources.
 
 Featuring anime, landscapes, cyberpunk, pixel art and more. This collection is regularly updated with new wallpapers. If you enjoy it, consider giving the repository a ­⭐ to stay updated and support the project.
