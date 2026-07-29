@@ -56,6 +56,12 @@
 
 - [`toji_fushiguro.jpg`](Animes/toji_fushiguro.jpg) — **VILEX45**
 
+- [`girl_smoking.jpg`](Animes/girl_smoking.jpg) — **Rolua**
+
+- [`chainsawman_makima.jpg`](Animes/chainsawman_makima.jpg) — **YIONES**
+
+- [`naruto_sasuke.webp`](Animes/naruto_sasuke.webp) — **Paji**
+
 ---
 
 ## 📁 Apocalipse
