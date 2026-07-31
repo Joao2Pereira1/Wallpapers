@@ -102,6 +102,8 @@
 - [`sky_city.jpg`](Cities/sky_city.jpg) — **Makoto Shinkai** (Estúdio CoMix Wave Films)
 - [`sky_scrappers_city.png`](Cities/sky_scrappers_city.png) — **1041uuu**
 - [`sunset_city.png`](Sunset/sunset_city.png) — **Yu Jing**
+- [`london_city.jpg`](Sunset/london_city.jpg) — **Hugo Puzzuoli**
+- [`cool_city.jpg`](Sunset/cool_city.jpg) — **Michel Donze**
 
 ---
 
@@ -295,6 +297,9 @@
 - [`ufo.jpg`](Space/ufo.jpg) — **Makoto Shinkai** (Estúdio CoMix Wave Films)
 - [`space_girl2.webp`](Space/space_girl2.webp) - **Kazari Tayu**
 - [`plane2.jpg`](Space/plane2.jpg) - **@Henryc30190152**
+- [`rockets_bicycles.jpg`](Space/rockets_bicycles.jpg) - **BisBiswas**
+- [`rover2.jpg`](Space/rover2.jpg) - **Erin Holmes**
+- [`space_girl.webp`](Space/space_girl.webp) - **XilmO**
 
 ---
 
