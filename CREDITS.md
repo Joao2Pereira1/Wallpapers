@@ -222,6 +222,7 @@
 
 - [`nier_automata3.png`](Nier%20Automata/nier_automata3.png) — **Electronic_Sample_96**
 - [`nier_automata_env.jpg`](Nier%20Automata/nier_automata_env.jpg) — **Square Enix**
+- [`nier_aotomata.jpg`](Nier%20Automata/nier_automata.jpg) — **@tricoliet**
 
 ---
 
@@ -265,6 +266,8 @@
 - [`got_red.jpg`](Samurai/got_red.jpg) — **Nikki Arts**
 - [`red_samurai.jpg`](Samurai/red_samurai.jpg) — **Maxwell Reis**
 - [`samurai_fight.jpg`](Samurai/samurai_fight.jpg) — **Faraz Shanyar**
+- [`samurai.jpg`](Samurai/samurai.jpg) — **Hua Lu**
+- [`samurai1.jpg`](Samurai/samurai1.jpg) —
 
 ---
 
