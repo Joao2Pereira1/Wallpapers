@@ -126,6 +126,10 @@
 - [`souls_bonefire.jpg`](Elden%20Ring/souls_bonefire.jpg) — **Andre Sargeant**
 
 - [`wizard.png`](Elden%20Ring/wizard.png) — **FromSoftware** (Material Oficial promocional)
+- [`melina.jpg`](Elden%20Ring/melina.jpg) — **@mikazuki_akira**
+- [`maliketh.jpg`](Elden%20Ring/maliketh.jpg) — **S-Mrry**
+- [`bloodborne.jpg`](Elden%20Ring/bloodborne.jpg) — **Anato Finnstark**
+
 
 ---
 
