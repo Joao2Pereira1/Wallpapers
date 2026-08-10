@@ -174,6 +174,13 @@
 - [`wuthering_waves.jpg`](Fantasy/wuthering_waves.jpg) — **Aemeath's Wrath**
 
 - [`yellow_tree.jpg`](Fantasy/yellow_tree.jpg) — **Philipp Urlich**
+- [`portal_art.jpg`](Fantasy/portal_art.jpg) — **Wadim Kashin**
+- [`mysterious_wizard.jpg`](Fantasy/mysterious_wizard.jpg) — **Natalia Sidorova**
+- [`desert_temple.jpg`](Fantasy/desert_temple.jpg) — **Amir Zand**
+- [`decay_angel.webp`](Fantasy/decay_angel.webp) — **Homutan**
+- [`mysterious_towers.jpg`](Fantasy/mysterious_towers.jpg) — **Ismail Inceoglu**
+- [`fantasy_city.jpg`](Fantasy/fantasy_city.jpg) — **Kamila Szutenberg**
+- [`mecha.png`](Fantasy/mecha.png) — **Cupoi**
 
 ---
 
