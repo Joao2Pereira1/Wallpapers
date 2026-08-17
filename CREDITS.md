@@ -152,8 +152,8 @@
 - [`greatplains2.jpeg`](Landscapes/greatplains2.jpeg) — **Hardy Fowler**
 - [`hoops.jpg`](Landscapes/hoops.jpg) — **Dimitar Marinski**
 - [`lake.jpg`](Landscapes/lake.jpg) — **DragonMountain56**
-- [`ligh_pole.jpg`](Landscapes/ligh_pole.jpg) — **Jiro** (Gatring3 / @m_26_jp)
-- [`lighthouse.jpg`](Landscapes/lighthouse.jpg) — **Jiro** (Gatring3 / @m_26_jp)
+- [`ligh_pole.jpg`](Landscapes/ligh_pole.jpg) — **Jiro** ([https://m-26.jp](https://m-26.jp))
+- [`lighthouse.jpg`](Landscapes/lighthouse.jpg) — **Jiro** ([https://m-26.jp](https://m-26.jp))
 - [`lofi_wallpaper.png`](Landscapes/lofi_wallpaper.png) — **SeerLight** (Ronald Kuang)
 - [`lonely.jpg`](Landscapes/lonely.jpg) — **Aenami** (Alena Aenami)
 - [`moon_pink.jpg`](Landscapes/moon_pink.jpg) — **Aenami** (Alena Aenami)
