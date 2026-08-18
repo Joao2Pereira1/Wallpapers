@@ -103,7 +103,7 @@ Wallpapers inspired by Elden Ring, featuring iconic characters, bosses, environm
 
 #### Preview
 
-<img src="Elden%20Ring/malenia.png" alt="Elden Ring Malenia boss wallpaper" width="300"> <img src="Elden%20Ring/ranni_ai.jpg" alt="Elden Ring Ranni character wallpaper" width="300"> <img src="Elden%20Ring/wizard.png" alt="Elden Ring wizard character wallpaper" width="300"> <img src="Elden%20Ring/serpent.jpg" alt="Elden Ring Rikard boss wallpaper" width="300">
+<img src="Elden%20Ring/malenia.webp" alt="Elden Ring Malenia boss wallpaper" width="300"> <img src="Elden%20Ring/ranni_ai.webp" alt="Elden Ring Ranni character wallpaper" width="300"> <img src="Elden%20Ring/wizard.webp" alt="Elden Ring wizard character wallpaper" width="300"> <img src="Elden%20Ring/serpent.webp" alt="Elden Ring Rikard boss wallpaper" width="300">
 
 **[Browse the Elden Ring collection](Elden%20Ring/)**
 
@@ -139,7 +139,7 @@ A large collection of landscape wallpapers including natural environments, fanta
 
 #### Preview
 
-<img src="Landscapes/beautiful_sky_ai.jpg" alt="Beautiful sky landscape wallpaper" width="300"> <img src="Landscapes/cowboy.png" alt="Cowboy landscape wallpaper" width="300"> <img src="Landscapes/windmill.jpg" alt="Beautiful Windmill wallpaper" width="300"> <img src="Landscapes/ligh_pole.jpg" alt="Light pole night landscape wallpaper" width="300">
+<img title="" src="Landscapes/windmill.jpg" alt="Beautiful sky landscape wallpaper" width="300"> <img title="" src="Landscapes/cowboy.webp" alt="Cowboy landscape wallpaper" width="300"> <img src="Landscapes/windmill.jpg" alt="Beautiful Windmill wallpaper" width="300"> <img src="Landscapes/ligh_pole.jpg" alt="Light pole night landscape wallpaper" width="300">
 
 **[Browse the Landscapes collection](Landscapes/)**
 
@@ -175,7 +175,7 @@ Collection of Nier Automata wallpapers.
 
 #### Preview
 
-<img src="Nier%20Automata/2B_ai.jpeg" alt="Nier Automata 2B wallpaper" width="300"> <img src="Nier%20Automata/2b_nier_automata_ai.png" alt="Nier Automata 2B character wallpaper" width="300"> <img src="Nier%20Automata/yorha_no2_type_b_nier_automata_thumb_ai.png" alt="Nier Automata YoRHa No.2 Type B wallpaper" width="300"> <img src="Nier%20Automata/nier_automata3.png" alt="Nier Automata environment wallpaper" width="300">
+<img src="Nier%20Automata/2B_ai.jpeg" alt="Nier Automata 2B wallpaper" width="300"> <img src="Nier%20Automata/2b_nier_automata_ai.webp" alt="Nier Automata 2B character wallpaper" width="300"> <img src="Nier%20Automata/yorha_no2_type_b_nier_automata_thumb_ai.webp" alt="Nier Automata YoRHa No.2 Type B wallpaper" width="300"> <img title="" src="Nier%20Automata/nier_automata3.webp" alt="Nier Automata environment wallpaper" width="300">
 
 **[Browse the Nier Automata collection](Nier%20Automata/)**
 
@@ -283,7 +283,7 @@ Collection of the wallpapers that i love more.
 
 #### Preview
 
-<img src="Animes/naruto_madara.jpg" width="300"> <img src="Animes/evangelion_asuka2.png" width="300"> <img src="Logos/arch_blue.jpeg" width="300"> <img src="Logos/arch_purple.png" width="300"> <img src="Elden%20Ring/fire_soldier.png" width="300"> <img src="Cities/crane.png" width="300"> <img src="Fantasy/castle.jpg" width="300"> <img src="Landscapes/ligh_pole.jpg" width="300"> <img src="Nier%20Automata/2b_nier_automata_ai.png" width="300"> <img src="Japan/sekiro.jpg" width="300"> <img title="" src="Landscapes/cowboy.png" alt="" width="300"> <img src="Relaxing/girl_painting.png" width="300"> <img src="Relaxing/girl_chilling_ruins.jpg" width="300"> <img src="Relaxing/girl_reflecting.jpg" width="300"> <img src="Sea/ocean_with_cloud.png" width="300"> <img src="Samurai/samurai_wallpaper_ai.jpeg" width="300">
+<img src="Animes/naruto_madara.jpg" width="300"> <img src="Animes/evangelion_asuka2.png" width="300"> <img src="Logos/arch_blue.jpeg" width="300"> <img src="Logos/arch_purple.png" width="300"> <img title="" src="Elden%20Ring/fire_soldier.webp" alt="" width="300"> <img src="Cities/crane.png" width="300"> <img src="Fantasy/castle.jpg" width="300"> <img src="Landscapes/ligh_pole.jpg" width="300"> <img title="" src="Nier%20Automata/2b_nier_automata_ai.webp" alt="" width="300"> <img src="Japan/sekiro.jpg" width="300"> <img title="" src="Landscapes/cowboy.webp" alt="" width="300"> <img src="Relaxing/girl_painting.png" width="300"> <img src="Relaxing/girl_chilling_ruins.jpg" width="300"> <img src="Relaxing/girl_reflecting.jpg" width="300"> <img src="Sea/ocean_with_cloud.png" width="300"> <img src="Samurai/samurai_wallpaper_ai.jpeg" width="300">
 
 ---
 

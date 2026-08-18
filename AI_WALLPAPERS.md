@@ -24,7 +24,7 @@ This document lists the wallpapers in this repository that are AI-generated or b
 
 ## Elden Ring
 
-<img src="Elden%20Ring/ranni_ai.jpg" alt="Elden Ring Ranni the Witch" width="300"> <img title="" src="Elden%20Ring/soldier_ai.png" alt="Elden Ring Soldier" width="300">
+<img title="" src="Elden%20Ring/ranni_ai.webp" alt="Elden Ring Ranni the Witch" width="300"> <img title="" src="Elden%20Ring/soldier_ai.png" alt="Elden Ring Soldier" width="300">
 
 ---
 
@@ -54,7 +54,7 @@ This document lists the wallpapers in this repository that are AI-generated or b
 
 ## Nier Automata
 
-<img src="Nier%20Automata/2B_ai.jpeg" alt="Nier Automata 2B artwork" width="300"> <img src="Nier%20Automata/nier_automata_minimal_ai.png" alt="Nier Automata minimalist logo" width="300"> <img src="Nier%20Automata/2b_nier_automata_ai.png" alt="Nier Automata 2B standing" width="300"> <img src="Nier%20Automata/nier_automata_ai.jpg" alt="Nier Automata cinematic environment" width="300"> <img src="Nier%20Automata/yorha_no2_type_b_nier_automata_thumb_ai.png" alt="Nier Automata YoRHa No_ai.2 Type B" width="300"> <img src="Nier%20Automata/nier_ai.jpeg" alt="Nier series character illustration" width="300"> <img src="Nier%20Automata/nierautomata_moto_ai.png" alt="Nier Automata character on motorcycle" width="300">
+<img src="Nier%20Automata/2B_ai.jpeg" alt="Nier Automata 2B artwork" width="300"> <img src="Nier%20Automata/nier_automata_minimal_ai.png" alt="Nier Automata minimalist logo" width="300"> <img title="" src="Nier%20Automata/2b_nier_automata_ai.webp" alt="Nier Automata 2B standing" width="300"> <img src="Nier%20Automata/nier_automata_ai.jpg" alt="Nier Automata cinematic environment" width="300"> <img title="" src="Nier%20Automata/yorha_no2_type_b_nier_automata_thumb_ai.webp" alt="Nier Automata YoRHa No_ai.2 Type B" width="300"> <img src="Nier%20Automata/nier_ai.jpeg" alt="Nier series character illustration" width="300"> <img title="" src="Nier%20Automata/nierautomata_moto_ai.webp" alt="Nier Automata character on motorcycle" width="300">
 
 ---
 

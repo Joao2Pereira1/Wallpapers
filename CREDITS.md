@@ -81,19 +81,19 @@
 ## 📁 Elden Ring
 
 - [`bloodborne.jpg`](Elden%20Ring/bloodborne.jpg) — **Anato Finnstark**
-- [`fire_soldier.png`](Elden%20Ring/fire_soldier.png) — **kamrantariq1212**
+- [`fire_soldier.webp`](Elden%20Ring/fire_soldier.webp) — **kamrantariq1212**
 - [`horse.jpg`](Elden%20Ring/horse.jpg) — **FromSoftware**
-- [`malenia.png`](Elden%20Ring/malenia.png) — **Caio Santos**
+- [`malenia.webp`](Elden%20Ring/malenia.webp) — **Caio Santos**
 - [`malenia2.jpg`](Elden%20Ring/malenia2.jpg) — **Dino**
 - [`malenia3.jpg`](Elden%20Ring/malenia3.jpg) — **Rashuu** (Rashuu_art)
 - [`malenia4.jpg`](Elden%20Ring/malenia4.jpg) — **Anato Finnstark**
-- [`malenia_incredible.jpg`](Elden%20Ring/malenia_incredible.jpg) — **Caius Augustus** (Stupid_Art)
+- [`malenia_incredible.webp`](Elden%20Ring/malenia_incredible.webp) — **Caius Augustus** (Stupid_Art)
 - [`maliketh.jpg`](Elden%20Ring/maliketh.jpg) — **S-Mrry**
-- [`melina.jpg`](Elden%20Ring/melina.jpg) — **@mikazuki_akira**
-- [`random.jpg`](Elden%20Ring/random.jpg) — **S-Mrry** (@bloodexer)
-- [`serpent.jpg`](Elden%20Ring/serpent.jpg) — **Fran** (Illustration by Fran)
+- [`melina.jpg`](Elden%20Ring/melina.webp) — **@mikazuki_akira**
+- [`random.webp`](Elden%20Ring/random.webp) — **S-Mrry** (@bloodexer)
+- [`serpent.webp`](Elden%20Ring/serpent.webp) — **Fran** (Illustration by Fran)
 - [`souls_bonefire.jpg`](Elden%20Ring/souls_bonefire.jpg) — **Andre Sargeant**
-- [`wizard.png`](Elden%20Ring/wizard.png) — **FromSoftware**
+- [`wizard.webp`](Elden%20Ring/wizard.webp) — **FromSoftware**
 
 ---
 
@@ -147,7 +147,7 @@
 - [`boat_red_river.png`](Landscapes/boat_red_river.png) — **Aenami** (Alena Aenami)
 - [`campfire.webp`](Landscapes/campfire.webp) — **Geraud Soulie** (Operion)
 - [`clouds.jpg`](Landscapes/clouds.jpg) — **Makoto Shinkai** (Studio CoMix Wave Films)
-- [`cowboy.png`](Landscapes/cowboy.png) — **Hardy Fowler**
+- [`cowboy.webp`](Landscapes/cowboy.webp) — **Hardy Fowler**
 - [`forest.jpeg`](Landscapes/forest.jpeg) — **Hardy Fowler**
 - [`greatplains2.jpeg`](Landscapes/greatplains2.jpeg) — **Hardy Fowler**
 - [`hoops.jpg`](Landscapes/hoops.jpg) — **Dimitar Marinski**
@@ -179,7 +179,7 @@
 ## 📁 Nier Automata
 
 - [`nier_aotomata.jpg`](Nier%20Automata/nier_automata.jpg) — **@tricoliet**
-- [`nier_automata3.png`](Nier%20Automata/nier_automata3.png) — **Electronic_Sample_96**
+- [`nier_automata3.webp`](Nier%20Automata/nier_automata3.webp) — **Electronic_Sample_96**
 - [`nier_automata_env.jpg`](Nier%20Automata/nier_automata_env.jpg) — **Square Enix**
 
 ---
