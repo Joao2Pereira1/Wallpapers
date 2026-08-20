@@ -53,6 +53,8 @@
 ## 📁 Cars
 
 - [`van.jpg`](Cars/van.jpg) — **Aenami** (Alena Aenami)
+- [`simpsons_drift.webp`](Cars/simpsons_drift.webp) — **Acoolrocket** (Deviant Art)
+- [`f40_sunset.jpg`](Cars/f40_sunset.jpg) — **Forza Horizon Studio**
 
 ---
 

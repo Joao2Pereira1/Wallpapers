@@ -151,7 +151,7 @@ Wallpapers featuring clean, minimalist, and stylized logos from operating system
 
 #### Preview
 
-<img src="Logos/arch_purple.png" alt="Arch Linux stylized purple logo wallpaper" width="300"> <img src="Logos/arch_blue.jpeg" alt="Arch Linux minimalist blue logo wallpaper" width="300"> <img src="Logos/ubuntu3.png" alt="Ubuntu Linux classic logo wallpaper" width="300"> <img src="Logos/windows_joke.png" alt="Windows funny  joke logo wallpaper" width="300">
+<img title="" src="Logos/arch_purple.webp" alt="Arch Linux stylized purple logo wallpaper" width="300"> <img src="Logos/arch_blue.webp" alt="Arch Linux minimalist blue logo wallpaper" width="300"> <img src="Logos/ubuntu3.webp" alt="Ubuntu Linux classic logo wallpaper" width="300"> <img src="Logos/windows_joke.webp" alt="Windows funny  joke logo wallpaper" width="300">
 
 **[Browse the Logos collection](Logos/)**
 
@@ -199,7 +199,7 @@ Relaxing wallpapers featuring peaceful landscapes, sunsets, Firewatch-inspired s
 
 #### Preview
 
-<img src="Relaxing/cat_girl_window.jpg" alt="Relaxing anime girl by window wallpaper" width="300"> <img src="Relaxing/girl_reflecting.jpg" alt="Peaceful girl reflecting wallpaper" width="300"> <img src="Relaxing/girl_chilling_ruins.jpg" alt="Calm chill anime girl wallpaper" width="300"> <img src="Relaxing/fireworks.jpg" alt="Girl looking at fireworks relaxing wallpaper" width="300">
+<img src="Relaxing/cat_girl_window.jpg" alt="Relaxing anime girl by window wallpaper" width="300"> <img title="" src="Relaxing/pastel_window.webp" alt="Peaceful girl reflecting wallpaper" width="300"> <img src="Relaxing/girl_chilling_ruins.jpg" alt="Calm chill anime girl wallpaper" width="300"> <img src="Relaxing/fireworks.jpg" alt="Girl looking at fireworks relaxing wallpaper" width="300">
 
 **[Browse the Relaxing collection](Relaxing/)**
 
@@ -211,7 +211,7 @@ Samurai-themed wallpapers including cyberpunk interpretations, traditional Japan
 
 #### Preview
 
-<img src="Samurai/got_red.jpg" alt="Samurai red-toned cinematic wallpaper" width="300"> <img src="Samurai/japan3_ai.jpg" alt="Traditional Japanese samurai wallpaper" width="300"> <img src="Samurai/red_samurai.jpg" alt="Samurai warrior wallpaper" width="300"> <img src="Samurai/blue_samurai.jpg" alt="Samurai battle wallpaper" width="300">
+<img src="Samurai/got_red.jpg" alt="Samurai red-toned cinematic wallpaper" width="300"> <img src="Samurai/japan3_ai.jpg" alt="Traditional Japanese samurai wallpaper" width="300"> <img src="Samurai/red_samurai.jpg" alt="Samurai warrior wallpaper" width="300"> <img title="" src="Samurai/rad_samurai.jpg" alt="Samurai battle wallpaper" width="300">
 
 **[Browse the Samurai collection](Samurai/)**
 
@@ -223,7 +223,7 @@ Beautiful oceanic wallpapers featuring deep blue waters, waves, tropical beaches
 
 #### Preview
 
-<img src="Sea/sea_ai.png" alt="Calm open sea vector style illustration wallpaper" width="300"> <img src="Sea/sea_ai.jpg" alt="Deep blue ocean waves wallpaper" width="300"> <img src="Sea/sunset.png" alt="Beautiful sea sunset with warm colors wallpaper" width="300"> <img src="Sea/sky_reflection.jpg" alt="Beautiful sky reflection landscape" width="300">
+<img src="Sea/sea_ai.png" alt="Calm open sea vector style illustration wallpaper" width="300"> <img title="" src="Sea/ocean_with_cloud.png" alt="Deep blue ocean waves wallpaper" width="300"> <img title="" src="Sea/sunset.webp" alt="Beautiful sea sunset with warm colors wallpaper" width="300"> <img src="Sea/sky_reflection.jpg" alt="Beautiful sky reflection landscape" width="300">
 
 **[Browse the Sea collection](Sea/)**
 
@@ -235,7 +235,7 @@ Abstract textures, material designs, digital patterns, and clean geometric surfa
 
 #### Preview
 
-<img src="Surfaces/wave.png" alt="Abstract fluid wave texture wallpaper" width="300"> <img src="Surfaces/blue_wave.png" alt="Smooth abstract blue wave surface wallpaper" width="300"> <img src="Surfaces/stone_fragments.webp" alt="Close-up of modern abstract stone fragments texture" width="300"> <img src="Surfaces/ink_wave.png" alt="Abstract dark ink wave texture wallpaper" width="300">
+<img src="Surfaces/wave.webp" alt="Abstract fluid wave texture wallpaper" width="300"> <img src="Surfaces/blue_wave.webp" alt="Smooth abstract blue wave surface wallpaper" width="300"> <img src="Surfaces/stone_fragments.webp" alt="Close-up of modern abstract stone fragments texture" width="300"> <img src="Surfaces/ink_wave.webp" alt="Abstract dark ink wave texture wallpaper" width="300">
 
 **[Browse the Surfaces collection](Surfaces/)**
 
@@ -283,7 +283,7 @@ Collection of the wallpapers that i love more.
 
 #### Preview
 
-<img src="Animes/naruto_madara.jpg" width="300"> <img src="Animes/evangelion_asuka2.png" width="300"> <img src="Logos/arch_blue.jpeg" width="300"> <img src="Logos/arch_purple.png" width="300"> <img title="" src="Elden%20Ring/fire_soldier.webp" alt="" width="300"> <img src="Cities/crane.png" width="300"> <img src="Fantasy/castle.jpg" width="300"> <img src="Landscapes/ligh_pole.jpg" width="300"> <img title="" src="Nier%20Automata/2b_nier_automata_ai.webp" alt="" width="300"> <img src="Japan/sekiro.jpg" width="300"> <img title="" src="Landscapes/cowboy.webp" alt="" width="300"> <img src="Relaxing/girl_painting.png" width="300"> <img src="Relaxing/girl_chilling_ruins.jpg" width="300"> <img src="Relaxing/girl_reflecting.jpg" width="300"> <img src="Sea/ocean_with_cloud.png" width="300"> <img src="Samurai/samurai_wallpaper_ai.jpeg" width="300">
+<img src="Animes/naruto_madara.jpg" width="300"> <img src="Animes/evangelion_asuka2.png" width="300"> <img title="" src="Logos/arch_blue.webp" alt="" width="300"> <img title="" src="Logos/arch_purple.webp" alt="" width="300"> <img title="" src="Elden%20Ring/fire_soldier.webp" alt="" width="300"> <img src="Cities/crane.png" width="300"> <img src="Fantasy/castle.jpg" width="300"> <img src="Landscapes/ligh_pole.jpg" width="300"> <img title="" src="Nier%20Automata/2b_nier_automata_ai.webp" alt="" width="300"> <img src="Japan/sekiro.jpg" width="300"> <img title="" src="Landscapes/cowboy.webp" alt="" width="300"> <img src="Relaxing/girl_painting.png" width="300"> <img src="Relaxing/girl_chilling_ruins.jpg" width="300"> <img title="" src="Space/air_space.jpg" alt="" width="300"> <img src="Sea/ocean_with_cloud.png" width="300"> <img title="" src="Samurai/samurai.jpg" alt="" width="300">
 
 ---
 
