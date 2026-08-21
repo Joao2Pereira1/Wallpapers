@@ -8,33 +8,56 @@
 
 ## 📁 Animes
 
+- [`arknights.jpg`](Animes/arknights.jpg) — **Arknights Studio**
 - [`anime_girl.png`](Animes/anime_girl.png) — **Cogecha**
 - [`balcony.jpeg`](Animes/balcony.jpeg) — **Cogecha**
 - [`bizzare.png`](Animes/bizzare.png) — **Akasaka Aka** (Aki Akane)
+- [`boruto.jpg`](Animes/boruto.jpg) — **@artpaji**
+- [`chainsaw_himeno.jpg`](Animes/chainsaw_himeno.jpg) — **@artpaji**
+- [`chainsaw_reze.jpg`](Animes/chainsaw_reze.jpg) — **@dsuV4sW8qYWHQVL**
+- [`chainsawman_makima_eye.webp`](Animes/chainsawman_makima_eye.webp) — **58 (opal 00 58)**
 - [`chainsaw_denji.jpg`](Animes/chainsaw_denji.jpg) — **Leo**
 - [`chainsaw_reze.png`](Animes/chainsaw_reze.png) — **From X**
 - [`chainsawman_makima.jpg`](Animes/chainsawman_makima.jpg) — **YIONES**
+- [`cyberpunk_lucy.webp`](Animes/cyberpunk_lucy.webp) — **@echosdoodle**
+- [`cyberpunk_lucy2.png`](Animes/cyberpunk_lucy2.png) — **JSYYY** (artstation)
 - [`cyberpunk.jpg`](Animes/cyberpunk.jpg) — **Wenfei Ye**
 - [`demon_tanjiro.png`](Animes/demon_tanjiro.png) — **_SENPAI_**
 - [`demon_tanjiro2.png`](Animes/demon_tanjiro2.png) —
-- [`evangelion.jpg`](Animes/evangelion.jpg) — **atomicxx**
+- [`demonslayer_tanjiro.jpg`](Animes/demonslayer_tanjiro.jpg) — 
+- [`demonslayer_tomioka.jpg`](Animes/demonslayer_tomioka.jpg) — **@krm_2dx**
+- [`evangelion_asuka.webp`](Animes/evangelion_asuka.webp) — ****
+- [`evangelion_rei.jpg`](Animes/evangelion_rei.jpg) — **KRYP_132** (pixiv)
+- [`evangelion.jpeg`](Animes/evangelion.jpg) — **atomicxx**
 - [`evangelion2.webp`](Animes/evangelion2.webp) — **Syuu** (Syuu_art)
 - [`evangelion_asuka.png`](Animes/evangelion_asuka.png) — **Neg**
 - [`evangelion_asuka2.jpg`](Animes/evangelion_asuka2.jpg) — **Chun Lo**
 - [`evangelion_asuka2.png`](Animes/evangelion_asuka2.png) — **Ask** (Asuka / Askzy)
+- [`frieren.jpg`](Animes/frieren.jpg) — **@MEINOSS**
 - [`frieren.png`](Animes/frieren.png) — **Jidaoji**
+- [`frieren2.webp`](Animes/frieren2.webp) — **Lemtun** (pixiv)
 - [`girl_smoking.jpg`](Animes/girl_smoking.jpg) — **Rolua**
 - [`jujutsu_choso.jpg`](Animes/jujutsu_choso.jpg) — **K** (@KyeZzzz)
 - [`jujutsu_megumi.png`](Animes/jujutsu_megumi.png) — **K** (@KyeZzzz)
 - [`jujutsu_sukuna.jpg`](Animes/jujutsu_sukuna.jpg) — **Artpaji** (Paji)
+- [`jujutsu_gojo.png`](Animes/jujutsu_gojo.png) — **Pouletroti555**
 - [`katana_pistol.jpg`](Animes/katana_pistol.jpg) — **KOHAKUNUSHI**
+- [`kaneki_evolution.jpg`](Animes/kaneki_evolution.jpg) —
+- [`moto_girl.jpg`](Animes/moto_girl.jpg) — **toriumi_harumi**
 - [`naruto_madara.jpg`](Animes/naruto_madara.jpg) — **Artpaji** (Paji)
 - [`naruto_minato.png`](Animes/naruto_minato.png) —
 - [`naruto_nagato.jpg`](Animes/naruto_nagato.jpg) — **Artpaji** (Paji)
 - [`naruto_sasuke.webp`](Animes/naruto_sasuke.webp) — **Paji**
+- [`prism_rondo.png`](Animes/prism_rondo.png) — **Wit Studio**
+- [`prism_rondo2.png`](Animes/prism_rondo2.png) — **Wit Studio**
+- [`red_mecha.jpg`](Animes/red_mecha.jpg) — **Masariro** (pixiv)
+- [`rezero_rem.png`](Animes/rezero_rem.png) — https://www.pixiv.net/en/artworks/57907846
 - [`solo_leveling.png`](Animes/solo_leveling.png) — **VILEX45**
 - [`solo_leveling_cha.png`](Animes/solo_leveling_cha.png) — **Scene from anime**
+- [`sao_asada_shino.webp`](Animes/sao_asada_shino.webp) — **A-1 Pictures Studio**
+- [`soul_eater_maka.png`](Animes/soul_eater_maka.png) — **@ratatatat74**
 - [`toji_fushiguro.jpg`](Animes/toji_fushiguro.jpg) — **VILEX45**
+- [`violetevergarden.jpg`](Animes/violetevergarden.jpg) — **@SuikkaGcy**
 
 ---
 
