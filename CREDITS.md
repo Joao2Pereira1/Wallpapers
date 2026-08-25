@@ -247,6 +247,14 @@
 - [`girl_street_sunflower.jpg`](Relaxing/girl_street_sunflower.jpg) — **Ritao**
 - [`pastel_window.png`](Relaxing/pastel_window.png) — **Jeff Östberg e Genevieve Lacroix**
 - [`relaxing_bath.jpg`](Relaxing/relaxing_bath.jpg) — **Klaus Wittmann**
+- [`campfire.webp`](Relaxing/campfire.webp) — **softy & Lucid Green**
+- [`girl_cat2.png`](Relaxing/girl_cat2.png) — **avogado6**
+- [`girl_koi.webp`](Relaxing/girl_koi.webp) — **fjsmu**
+- [`girl_water.jpg`](Relaxing/girl_water.jpg) — **https://www.artstation.com/do-ra**
+- [`koi_fish.webp`](Relaxing/koi_fish.webp) — **@sorasagano**
+- [`lofi_cat.webp`](Relaxing/lofi_cat.webp) — 
+- [`sunflowers.png`](Relaxing/sunflowers.png) — **Studio Ghibli**
+- [`girl_staring_sea.webp`](Relaxing/girl_staring_sea.webp) —
 
 ---
 
