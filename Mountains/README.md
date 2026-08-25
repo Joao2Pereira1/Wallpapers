@@ -8,7 +8,7 @@
 
 ## 📷 Original Wallpapers
 
-<img src="mountain.jpeg" alt="mountain" width="300"> <img src="mountains_art.jpg" alt="mountains_art" width="300"> <img src="minimal_landscape.jpg" alt="minimal_landscape" width="300"> <img src="mountains2.jpg" alt="mountains2" width="300"> <img src="moon_mountain.jpg" alt="moon_mountain" width="300"> <img src="mountains.jpg" alt="mountains" width="300"> <img src="nice_mountain.webp" alt="nice_mountain" width="300"> 
+<img src="mountains2.jpg" alt="mountains2" width="300"> <img src="mountains_art.jpg" alt="mountains_art" width="300"> <img src="mountains.jpg" alt="mountains" width="300"> <img src="moon_mountain.jpg" alt="moon_mountain" width="300"> <img src="minimal_landscape.jpg" alt="minimal_landscape" width="300"> <img src="mountain.jpeg" alt="mountain" width="300"> <img src="nice_mountain.webp" alt="nice_mountain" width="300"> 
 
 ---
 

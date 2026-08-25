@@ -36,6 +36,8 @@
 - [`frieren.jpg`](Animes/frieren.jpg) — **@MEINOSS**
 - [`frieren.png`](Animes/frieren.png) — **Jidaoji**
 - [`frieren2.webp`](Animes/frieren2.webp) — **Lemtun** (pixiv)
+- [`frieren.webp`](Animes/frieren.webp) — **@dongyu0714**
+- [`frieren_fern.jpg`](Animes/frieren_fern.jpg) — **@QUASARCAKE**
 - [`girl_smoking.jpg`](Animes/girl_smoking.jpg) — **Rolua**
 - [`jujutsu_choso.jpg`](Animes/jujutsu_choso.jpg) — **K** (@KyeZzzz)
 - [`jujutsu_megumi.png`](Animes/jujutsu_megumi.png) — **K** (@KyeZzzz)
