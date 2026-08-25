@@ -262,6 +262,17 @@
 - [`ocean_with_cloud.png`](Sea/ocean_with_cloud.png) — 
 - [`sky_reflection.jpg`](Sea/sky_reflection.jpg) — **Jiro** (Gatring3 / @m_26_jp)
 - [`sunset.png`](Sea/sunset.png) — **YuCong Tang**
+- [`beach.webp`](Sea/beach.webp) — **Jiro** (Gatring3 / @m_26_jp)
+- [`beach_house.jpg`](Sea/beach_house.jpg) — **@bangjoy1992**
+- [`demon_fish.jpg`](Sea/demon_fish.jpg) — **Denis Loebner**
+- [`drowned_city.png`](Sea/drowned_city.png) — **@bangjoy1992**
+- [`rough_sea.jpg`](Sea/rough_sea.jpg) — **Guillem H. Pongiluppi**
+- [`sea_date.jpg`](Sea/sea_date.jpg) — **Alena Aenami**
+- [`sea_rocks.webp`](Sea/sea_rocks.webp) — **Etienne Hebinger**
+- [`sun_tornado.jpg`](Sea/sun_tornado.jpg) — **Artem Chebokha (RHADS)**
+- [`surfing.webp`](Sea/surfing.jpg) — **Jiro** (Gatring3 / @m_26_jp)
+- [`surfing_birds.webp`](Sea/surfing_birds.jpg) — **Jiro** (Gatring3 / @m_26_jp)
+- [`sea_jet_boat.webp`](Sea/sea_jet_boat.webp) — **BisBiswas**
 
 ---
 
