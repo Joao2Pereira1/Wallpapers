@@ -202,6 +202,8 @@
 - [`mountain.jpeg`](Mountains/mountain.jpeg) — **Hardy Fowler**
 - [`mountains.jpg`](Mountains/mountains.jpg) — **Philipp Urlich**
 - [`mountains2.jpg`](Mountains/mountains2.jpg) — **JoeyJazz**
+- [`mountains_art.jpg`](Mountains/mountains_art.jpg) — **JoeyJazz**
+- [`nice_mountain.webp`](Mountains/nice_mountain.webp) — **JoeyJazz**
 
 ---
 
