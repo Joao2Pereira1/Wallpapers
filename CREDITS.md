@@ -306,6 +306,9 @@
 - [`stars_pink.jpg`](Space/stars_pink.jpg) — **Jef Wu**
 - [`ufo.jpg`](Space/ufo.jpg) — **Makoto Shinkai** (Studio CoMix Wave Films)
 - [`weird_planet.jpg`](Space/weird_planet.jpg) — **jassi singh**
+- [`black_hole.jpg`](Space/black_hole.jpg) — 
+- [`saturn.webp`](Space/saturn.webp) — **Gabriel Gajdoš**
+- [`space_mars.webp`](Space/space_mars.webp) — **Maciej Rebisz**
 
 ---
 
