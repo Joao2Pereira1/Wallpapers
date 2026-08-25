@@ -163,6 +163,9 @@
 - [`japan_weird_vibes.jpg`](Japan/japan_weird_vibes.jpg) — **Rotarran**
 - [`sekiro.jpg`](Japan/sekiro.jpg) — **Taco Sauce Ninja**
 - [`tokyo_purple.jpg`](Japan/tokyo_purple.jpg) — **Waneella** (Studio Waneella Inc.)
+- [`blue_girl.jpg`](Japan/blue_girl.jpg) — **Louis Picard**
+- [`japan_dark.webp`](Japan/japan_dark.webp) — 
+- [`japan_rain_street.jpg`](Japan/japan_rain_street.jpg) — 
 
 ---
 
