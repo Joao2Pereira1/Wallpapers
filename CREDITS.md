@@ -21,7 +21,6 @@
 - [`chainsawman_makima.jpg`](Animes/chainsawman_makima.jpg) — **YIONES**
 - [`cyberpunk_lucy.webp`](Animes/cyberpunk_lucy.webp) — **@echosdoodle**
 - [`cyberpunk_lucy2.png`](Animes/cyberpunk_lucy2.png) — **JSYYY** (artstation)
-- [`cyberpunk.jpg`](Animes/cyberpunk.jpg) — **Wenfei Ye**
 - [`demon_tanjiro.png`](Animes/demon_tanjiro.png) — **_SENPAI_**
 - [`demon_tanjiro2.png`](Animes/demon_tanjiro2.png) —
 - [`demonslayer_tanjiro.jpg`](Animes/demonslayer_tanjiro.jpg) — 
@@ -83,15 +82,12 @@
 
 ---
 
-## 📁 Cities & Sunset
+## 📁 Cities
 
 - [`alley.jpg`](Cities/alley.jpg) — **Bastien Grivet**
 - [`blue_city.jpg`](Cities/blue_city.jpg) — **Fiekechu**
 - [`city_sky.jpg`](Cities/city_sky.jpg) — **Aenami** (Alena Aenami)
 - [`cool_city.jpg`](Sunset/cool_city.jpg) — **Michel Donze**
-- [`crane.png`](Cities/crane.png) — **Simon Stålenhag**
-- [`cyberpunk2.jpg`](Cities/cyberpunk2.jpg) — **Ian Fowler**
-- [`cyberpunk_town.jpg`](Cities/cyberpunk_town.jpg) — **Ismail Inceoglu**
 - [`london_city.jpg`](Sunset/london_city.jpg) — **Hugo Puzzuoli**
 - [`london_eye_broken.jpg`](Sunset/london_eye_broken.jpg) — **Tides of Annihilation**
 - [`neon_city.jpg`](Cities/neon_city.jpg) — **Gordon Zuchhold**
@@ -102,6 +98,12 @@
 - [`sunset_city.png`](Sunset/sunset_city.png) — **Yu Jing**
 - [`tech_city_orange.jpg`](Sunset/tech_city_orange.jpg) — **WopGnop**
 - [`urban_city.jpg`](Sunset/cool_city.jpg) — **Novelance**
+
+## 📁 Cyberpunk
+
+- [`cyberpunk_town.jpg`](Cities/cyberpunk_town.jpg) — **Ismail Inceoglu**
+- [`cyberpunk2.jpg`](Cities/cyberpunk2.jpg) — **Ian Fowler**
+- [`cyberpunk.jpg`](Animes/cyberpunk.jpg) — **Wenfei Ye**
 
 ---
 
@@ -176,6 +178,7 @@
 - [`big_tree.png`](Landscapes/big_tree.png) — **Sven Ruthner** (The-Goo-King)
 - [`boat_red_river.png`](Landscapes/boat_red_river.png) — **Aenami** (Alena Aenami)
 - [`campfire.webp`](Landscapes/campfire.webp) — **Geraud Soulie** (Operion)
+- [`crane.png`](Cities/crane.png) — **Simon Stålenhag**
 - [`clouds.jpg`](Landscapes/clouds.jpg) — **Makoto Shinkai** (Studio CoMix Wave Films)
 - [`cowboy.webp`](Landscapes/cowboy.webp) — **Hardy Fowler**
 - [`forest.jpeg`](Landscapes/forest.jpeg) — **Hardy Fowler**

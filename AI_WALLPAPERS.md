@@ -20,6 +20,11 @@ This document lists the wallpapers in this repository that are AI-generated or b
 
 <img src="Cities/boy_looking_city_ai.jpg" alt="Boy looking at city landscape" width="300"> <img src="Cities/tech_city_ai.jpg" alt="Futuristic high-tech city" width="300"> <img src="Cities/city_bridge_ai.jpg" alt="Scenic city bridge" width="300"> <img src="Cities/cyber_city_ai.jpg" alt="Cyberpunk neon city skyline" width="300"> <img src="Cities/miami_city_ai.jpg" alt="Miami city synthwave style" width="300"> <img title="" src="Cities/city_view_ai.webp" alt="City View" width="300"> <img title="" src="Cities/paris_ai.webp" alt="Paris" width="300">
 
+
+## Cyberpunk
+
+<img src="Cyberpunk/cyber_city_ai.jpg" alt="Cyberpunk neon city skyline" width="300">
+
 ---
 
 ## Elden Ring

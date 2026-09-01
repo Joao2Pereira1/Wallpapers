@@ -27,6 +27,7 @@ Featuring anime, landscapes, cyberpunk, pixel art and more. This collection is r
 - [Apocalipse](#apocalipse)
 - [Cars](#cars)
 - [Cities](#cities)
+- [Cyberpunk](#cyberpunk)
 - [Elden Ring](#elden-ring)
 - [Fantasy](#fantasy)
 - [Japan](#japan)
@@ -87,13 +88,19 @@ A collection of automotive wallpapers featuring modern, retro, and stylized vehi
 
 ## Cities
 
-Collection of city-themed wallpapers featuring cyberpunk skylines, modern architecture, urban landscapes, bridges, and neon-lit environments.
+Collection of city-themed wallpapers featuring modern architecture, urban landscapes, bridges, and neon-lit environments.
 
 #### Preview
 
-<img src="Cities/cyber_city_ai.jpg" alt="Cyberpunk city skyline wallpaper, neon lights" width="300"> <img src="Cities/cyberpunk2.jpg" alt="Cyberpunk city wallpaper" width="300"> <img src="Cities/alley.jpg" alt="Alley city wallpaper" width="300"> <img src="Cities/sky_city.jpg" alt="Urban skyline wallpaper, cloudy sky" width="300">
+ <img src="Cities/london_city.jpg" alt="Sky view of london at industry revolution wallpaper" width="300">  <img src="Cities/cool_city.jpg" alt="Neon city wallpaper" width="300"> <img src="Cities/alley.jpg" alt="Alley city wallpaper" width="300"> <img src="Cities/sky_city.jpg" alt="Urban skyline wallpaper, cloudy sky" width="300">
 
 **[Browse the Cities collection](Cities/)**
+
+---
+
+## Cyberpunk
+
+<img src="Cities/cyber_city_ai.jpg" alt="Cyberpunk city skyline wallpaper, neon lights" width="300"> <img src="Cities/cyberpunk2.jpg" alt="Cyberpunk city wallpaper" width="300"> <img src="Cities/cyberpunk.webp" alt="Cyberpunk samurai girl wallpaper" width="300"> <img src="Cities/cyberpunk_town.jpg" alt="Cyberpunk town wallpaper" width="300">
 
 ---
 
@@ -135,7 +142,7 @@ Collection of wallpapers inspired by Japan, featuring sakura trees, temples, sno
 
 ## Landscapes
 
-A large collection of landscape wallpapers including natural environments, fantasy scenes, cyberpunk cities, skies, and atmospheric compositions.
+A large collection of landscape wallpapers including natural environments, fantasy scenes, skies, and atmospheric compositions.
 
 #### Preview
 
@@ -207,7 +214,7 @@ Relaxing wallpapers featuring peaceful landscapes, sunsets, Firewatch-inspired s
 
 ## Samurai
 
-Samurai-themed wallpapers including cyberpunk interpretations, traditional Japanese aesthetics, and cinematic compositions.
+Samurai-themed wallpapers including traditional Japanese aesthetics, and cinematic compositions.
 
 #### Preview
 
