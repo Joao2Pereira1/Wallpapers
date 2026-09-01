@@ -100,7 +100,7 @@ Collection of city-themed wallpapers featuring modern architecture, urban landsc
 
 ## Cyberpunk
 
-<img src="Cities/cyber_city_ai.jpg" alt="Cyberpunk city skyline wallpaper, neon lights" width="300"> <img src="Cities/cyberpunk2.jpg" alt="Cyberpunk city wallpaper" width="300"> <img src="Cities/cyberpunk.webp" alt="Cyberpunk samurai girl wallpaper" width="300"> <img src="Cities/cyberpunk_town.jpg" alt="Cyberpunk town wallpaper" width="300">
+<img src="Cyberpunk/cyber_city_ai.jpg" alt="Cyberpunk city skyline wallpaper, neon lights" width="300"> <img src="Cyberpunk/cyberpunk2.jpg" alt="Cyberpunk city wallpaper" width="300"> <img src="Cyberpunk/cyberpunk.webp" alt="Cyberpunk samurai girl wallpaper" width="300"> <img src="Cyberpunk/cyberpunk_town.jpg" alt="Cyberpunk town wallpaper" width="300">
 
 ---
 
