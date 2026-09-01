@@ -198,6 +198,10 @@
 - [`white_arch.jpg`](Landscapes/white_arch.jpg) — **Jef Wu**
 - [`windmill.jpg`](Landscapes/windmill.jpg) — **Denis Loebner**
 
+- [`floating_radio_towers.jpg`](Landscapes/floating_radio_towers.jpg) — **Graciele**
+- [`dark_roadtrip.jpg`](Landscapes/dark_roadtrip.jpg) — **Graciele**
+- [`transmission_towers.jpg`](Landscapes/transmission_towers.jpg) — **Graciele**
+
 ---
 
 ## 📁 Mountains
@@ -209,6 +213,7 @@
 - [`mountains2.jpg`](Mountains/mountains2.jpg) — **JoeyJazz**
 - [`mountains_art.jpg`](Mountains/mountains_art.jpg) — **JoeyJazz**
 - [`nice_mountain.webp`](Mountains/nice_mountain.webp) — **JoeyJazz**
+- [`snow_mountains.jpg`](Mountains/snow_mountains.jpg) — **Aenami** (Alena Aenami)
 
 ---
 
