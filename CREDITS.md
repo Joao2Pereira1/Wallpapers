@@ -59,6 +59,19 @@
 - [`soul_eater_maka.png`](Animes/soul_eater_maka.png) — **@ratatatat74**
 - [`toji_fushiguro.jpg`](Animes/toji_fushiguro.jpg) — **VILEX45**
 - [`violetevergarden.jpg`](Animes/violetevergarden.jpg) — **@SuikkaGcy**
+- [`chainsawman_makima.webp`](Animes/chainsawman_makima.webp) — https://www.pixiv.net/en/artworks/102129899
+- [`chainsawman_power.webp`](Animes/chainsawman_power.webp) — ** **
+- [`chainsawman_yoru.jpg`](Animes/chainsawman_yoru.jpg) — **am88121**
+- [`evangelion_asuka3.webp`](Animes/evangelion_asuka3.webp) — **@timbougami**
+- [`evangelion_asuka4.webp`](Animes/evangelion_asuka4.webp) — **@VideoArtGame**
+- [`evangelion_asuka5.webp`](Animes/evangelion_asuka5.webp) — ** **
+- [`evangelion_rei.webp`](Animes/evangelion_rei.webp) — https://www.pixiv.net/en/artworks/110629594
+- [`fate_saber2.jpg`](Animes/fate_saber2.jpg) — **rockydevilweeb**
+- [`fate_saber.png`](Anime/fate_saber.png) - **asukazye**
+- [`hells_paradise_gabimaru.jpg`](Animes/hells_paradise_gabimaru.jpg) — **@nekoemonn**
+- [`hells_paradise_sagiri.webp`](Animes/hells_paradise_sagiri.webp) — **pendr a gon**
+- [`hells_paradise_sagiri2.webp`](Animes/hells_paradise_sagiri2.webp) — **@nekoemonn**
+- [`spyx_yor.webp`](Animes/spyx_yor.webp) — **@asayuki101**
 
 ---
 
