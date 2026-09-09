@@ -147,7 +147,7 @@ Collection of wallpapers inspired by Japan, featuring sakura trees, temples, sno
 
 #### Preview
 
-<img src="Japan/japan_ai.jpg" alt="Japan traditional landscape wallpaper" width="300"> <img src="Japan/japan_temples_sakuras_ai.jpg" alt="Japan temple with sakura trees wallpaper" width="300"> <img src="Japan/japan_weird_vibes.jpg" alt="Japan atmospheric surreal wallpaper" width="300"> <img src="Japan/sekiro.jpg" alt="Sekiro Japan wallpaper" width="300">
+<img src="Japan/japan_ai.jpg" alt="Japan traditional landscape wallpaper" width="300"> <img src="Japan/japan_temples_sakuras_ai.jpg" alt="Japan temple with sakura trees wallpaper" width="300"> <img src="Japan/japan_weird_vibes.jpg" alt="Japan atmospheric surreal wallpaper" width="300"> <img src="Japan/blue_girl.jpg" alt="Japanese Girl wallpaper" width="300">
 
 **[Browse the Japan collection](Japan/)**
 
