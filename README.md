@@ -135,10 +135,7 @@ Games-themed wallpapers from the legendo of zelda, sekiro and more.
 
 #### Preview
 
-<img src="Games/link.webp" alt="Link from The Legend of Zelda in horse" width="300">
-<img src="Games/sekiro.jpg" alt="Sekiro standing" width="300">
-<img src="Games/honkai_yae_miko.webp" alt="Yae Miko from Honkai Impact 3rd" width="300">
-<img src="Games/arknights_texas.webp" alt="Texas from Arknights" width="300">
+<img src="Games/link.webp" alt="Link from The Legend of Zelda in horse" width="300"> <img src="Games/sekiro.jpg" alt="Sekiro standing" width="300"> <img src="Games/honkai_yae_miko.webp" alt="Yae Miko from Honkai Impact 3rd" width="300"> <img src="Games/arknights_texas.webp" alt="Texas from Arknights" width="300">
 
 **[Browse the Fantasy collection](Fantasy/)**
 
