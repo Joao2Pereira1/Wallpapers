@@ -30,6 +30,7 @@ Featuring anime, landscapes, cyberpunk, pixel art and more. This collection is r
 - [Cyberpunk](#cyberpunk)
 - [Elden Ring](#elden-ring)
 - [Fantasy](#fantasy)
+- [Games](#games)
 - [Japan](#japan)
 - [Logos](#logos)
 - [Mountains](#mountains)
@@ -123,6 +124,21 @@ Fantasy-themed wallpapers featuring warriors, mages, dragons, landscapes, and da
 #### Preview
 
 <img src="Fantasy/blue_tree_mage.jpg" alt="Fantasy mage under blue tree wallpaper" width="300"> <img src="Fantasy/incredible_castle.jpg" alt="Amazing detailed castle wallpaper" width="300"> <img src="Fantasy/cthulhu.jpg" alt="Cthulhu.jpg mythologic creature wallpaper" width="300"> <img src="Fantasy/soldier_sunset.jpg" alt="Fantasy soldier sunset wallpaper" width="300">
+
+**[Browse the Fantasy collection](Fantasy/)**
+
+---
+
+## Games
+
+Games-themed wallpapers from the legendo of zelda, sekiro and more.
+
+#### Preview
+
+<img src="Games/link.webp" alt="Link from The Legend of Zelda in horse" width="300">
+<img src="Games/sekiro.jpg" alt="Sekiro standing" width="300">
+<img src="Games/honkai_yae_miko.webp" alt="Yae Miko from Honkai Impact 3rd" width="300">
+<img src="Games/arknights_texas.webp" alt="Texas from Arknights" width="300">
 
 **[Browse the Fantasy collection](Fantasy/)**
 

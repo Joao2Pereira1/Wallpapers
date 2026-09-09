@@ -169,6 +169,24 @@
 - [`wuthering_waves.jpg`](Fantasy/wuthering_waves.jpg) — **Aemeath's Wrath**
 - [`yellow_tree.jpg`](Fantasy/yellow_tree.jpg) — **Philipp Urlich**
 
+
+---
+
+## 📁 Games
+
+- [`sekiro.jpg`](Games/sekiro.jpg) — **Taco Sauce Ninja**
+- [`arknights_texas.webp`](Games/arknights_texas.webp) —  **Katann**
+- [`azur_lane_takao.jpg`](Games/azur_lane_takao.jpg) — **@yohan1754**
+- [`genshin_lumine.webp`](Games/genshin_lumine.webp) — **asa ni haru**
+- [`hatsune_miku.jpg`](Games/hatsune_miku.jpg) — **yotsuba**
+- [`honkai_piano.webp`](Games/honkai_piano.webp) — https://www.pixiv.net/en/artworks/95543698
+- [`honkai_yae_miko.webp`](Games/honkai_yae_miko.webp) — **@Zerotabi**
+- [`link.webp`](Games/link.webp) — 
+- [`link_fighting_resize.webp`](Games/link_fighting_resize.webp) — ****
+- [`nte_Zankou_artist_@fantasyfairydog.jpg`](Games/nte_Zankou.jpg) **@fantasyfairydog**
+- [`the_witcher.jpg`](Games/the_witcher.jpg) — Game Image
+- [`VA-11_Hall-A_Cyberpunk_Bartender_jill.webp`](Games/VA-11_Hall-A_Cyberpunk_Bartender_jill.webp) — **Koyorin**
+
 ---
 
 ## 📁 Japan
@@ -178,7 +196,6 @@
 - [`japan_street.jpg`](Japan/japan_street.jpg) — **Nikolai Lockertsen**
 - [`japan_tokyo.jpg`](Japan/japan_tokyo.jpg) — **Thomas Dubois**
 - [`japan_weird_vibes.jpg`](Japan/japan_weird_vibes.jpg) — **Rotarran**
-- [`sekiro.jpg`](Japan/sekiro.jpg) — **Taco Sauce Ninja**
 - [`tokyo_purple.jpg`](Japan/tokyo_purple.jpg) — **Waneella** (Studio Waneella Inc.)
 - [`blue_girl.jpg`](Japan/blue_girl.jpg) — **Louis Picard**
 - [`japan_dark.webp`](Japan/japan_dark.webp) — 
