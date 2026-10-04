@@ -231,6 +231,16 @@
 - [`floating_radio_towers.jpg`](Landscapes/floating_radio_towers.jpg) — **Graciele**
 - [`dark_roadtrip.jpg`](Landscapes/dark_roadtrip.jpg) — **Graciele**
 - [`transmission_towers.jpg`](Landscapes/transmission_towers.jpg) — **Graciele**
+- [`stardust.jpg`](Landscapes/stardust.jpg) — **Aenami** (Alena Aenami)
+- [`colorful_sky.png`](Landscapes/colorful_sky.png) — **@Hatti_98**
+- [`soldier_mountains.jpg`](Landscapes/soldier_mountains.jpg) — **Max Suleimanov** (artstation)
+- [`stars_sky.webp`](Landscapes/stars_sky.webp) — **Jiro** ([https://m-26.jp](https://m-26.jp))
+- [`surfboard_snow.jpg`](Landscapes/surfboard_snow.jpg) — **Jiro** ([https://m-26.jp](https://m-26.jp))
+- [`sunset_trees.jpg`](Landscapes/sunset_trees.jpg) —
+- [`wind_tower.webp`](Landscapes/wind_tower.webp) —
+- [`red_dead_style.jpg`](Landscapes/red_dead_style.jpg) —
+
+
 
 ---
 
