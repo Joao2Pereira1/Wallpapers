@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Wallpapers-+300-8A2BE2?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Collection-Constantly%20Updated-brightgreen?style=for-the-badge&logo=github&logoColor=white)" />
   <img src="https://img.shields.io/github/stars/Joao2Pereira1/Wallpapers?style=for-the-badge&logo=github&color=gold" />
   <img src="https://img.shields.io/github/repo-size/Joao2Pereira1/Wallpapers?style=for-the-badge&color=ff69b4&logo=disk&logoColor=white" />
 </p>
